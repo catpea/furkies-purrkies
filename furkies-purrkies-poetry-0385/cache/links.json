@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Prélude from the Cello Suite No. 1",
+    "url": "https://www.youtube.com/watch?v=1prweT95Mo0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "how simple the commands were in the days of yore",
+    "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "AT&T Archives: The UNIX Operating System",
+    "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0&t=362s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "K&R",
+    "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "inexpensive Unix or Linux machine",
+    "url": "https://www.raspberrypi.org/products/raspberry-pi-400/?variant=raspberry-pi-400-us-kit",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "node streams flow just like UNIX commands do",
+    "url": "https://github.com/substack/stream-handbook",
+    "hostname": "github.com"
+  }
+]

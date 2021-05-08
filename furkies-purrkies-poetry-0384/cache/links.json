@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Jargon File",
+    "url": "http://catb.org/jargon/",
+    "hostname": "catb.org"
+  },
+  {
+    "title": "Resume of Eric Steven Raymond",
+    "url": "http://www.catb.org/~esr/resume.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "Bootstrap",
+    "url": "https://www.youtube.com/watch?v=FMFm9GxB_Eo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "jQuery",
+    "url": "https://www.youtube.com/watch?v=JjIvF0yikGU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "but as browsers became more sophisticated, they rejected using jQuery and other frameworks",
+    "url": "https://www.youtube.com/watch?v=RdRMNT-98Oo&t=159s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "BootstrapVue",
+    "url": "https://www.youtube.com/watch?v=-DyKeMa5tYY&t=74s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Vue.js",
+    "url": "https://www.youtube.com/watch?v=JK6F5GGldPM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Sveltestrap",
+    "url": "https://www.youtube.com/watch?v=t3J1qTQ7kC8",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Svelte",
+    "url": "https://www.youtube.com/watch?v=ws97Etvs-Qs",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Healthcare website launch problems in 2013",
+    "url": "https://www.youtube.com/watch?v=k3M8O83n254",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "And you are genius level smart, we all are, but you have to start with baby steps",
+    "url": "https://www.youtube.com/watch?v=mQPEZdBTOeE",
+    "hostname": "www.youtube.com"
+  }
+]

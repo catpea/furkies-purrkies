@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Raccoon photo",
+    "url": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg",
+    "hostname": "commons.wikimedia.org"
+  },
+  {
+    "title": "author",
+    "url": "https://de.wikipedia.org/wiki/Benutzer:Darkone",
+    "hostname": "de.wikipedia.org"
+  },
+  {
+    "title": "license",
+    "url": "https://creativecommons.org/licenses/by-sa/2.5/deed.en",
+    "hostname": "creativecommons.org"
+  },
+  {
+    "title": "https://goo.gl/maps/wsX31CTTXR4bzhza8",
+    "url": "https://goo.gl/maps/wsX31CTTXR4bzhza8",
+    "hostname": "goo.gl"
+  },
+  {
+    "title": "https://goo.gl/maps/PhyA8hEuiAZnBmt1A",
+    "url": "https://goo.gl/maps/PhyA8hEuiAZnBmt1A",
+    "hostname": "goo.gl"
+  }
+]

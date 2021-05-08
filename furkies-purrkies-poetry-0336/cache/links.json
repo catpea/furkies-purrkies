@@ -1,0 +1,42 @@
+[
+  {
+    "title": "TI-83",
+    "url": "https://en.wikipedia.org/wiki/TI-83_series",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Beowulf Cluster",
+    "url": "https://en.wikipedia.org/wiki/Beowulf_cluster",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "PO-128",
+    "url": "https://teenage.engineering",
+    "hostname": "teenage.engineering"
+  },
+  {
+    "title": "generative art",
+    "url": "https://www.youtube.com/watch?v=4Se0_w0ISYk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "computer games",
+    "url": "https://pixijs.io/examples/",
+    "hostname": "pixijs.io"
+  },
+  {
+    "title": "Snap SVG",
+    "url": "http://snapsvg.io/start/",
+    "hostname": "snapsvg.io"
+  },
+  {
+    "title": "P5",
+    "url": "https://p5js.org/",
+    "hostname": "p5js.org"
+  },
+  {
+    "title": "three.js",
+    "url": "https://threejs.org/",
+    "hostname": "threejs.org"
+  }
+]

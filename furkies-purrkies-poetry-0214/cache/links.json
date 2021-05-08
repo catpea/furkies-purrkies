@@ -1,0 +1,37 @@
+[
+  {
+    "title": "express",
+    "url": "https://expressjs.com/",
+    "hostname": "expressjs.com"
+  },
+  {
+    "title": "Ward Cunningham",
+    "url": "https://github.com/WardCunningham",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Alice and Bob",
+    "url": "https://en.wikipedia.org/wiki/Alice_and_Bob",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "MUD",
+    "url": "https://en.wikipedia.org/wiki/MUD",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "line 26",
+    "url": "https://github.com/hubotio/hubot-rules/blob/master/src/rules.js#L26",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Node.js",
+    "url": "https://nodejs.org/en/",
+    "hostname": "nodejs.org"
+  },
+  {
+    "title": "search for video tutorials",
+    "url": "https://www.youtube.com/results?search_query=nodejs%20tutorial",
+    "hostname": "www.youtube.com"
+  }
+]

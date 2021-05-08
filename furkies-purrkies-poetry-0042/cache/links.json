@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Bash",
+    "url": "https://www.youtube.com/watch?v=2hz7-v2f1sA",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "non-capturing",
+    "url": "https://www.youtube.com/watch?v=xW4CdejMNPA",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Regular Expression",
+    "url": "https://www.youtube.com/watch?v=ykSuHWhh5hc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "sed",
+    "url": "https://www.youtube.com/watch?v=32waL1Z9XK0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Perl",
+    "url": "https://www.youtube.com/watch?v=E2JJZVqe97I",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "CGI",
+    "url": "https://www.youtube.com/watch?v=9Zx1vEmaQMc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "ed",
+    "url": "https://www.youtube.com/watch?v=BNYpmLH6IjQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "abandoning modes",
+    "url": "https://youtu.be/PUv66718DII?t=2490",
+    "hostname": "youtu.be"
+  },
+  {
+    "title": "SASS",
+    "url": "https://www.youtube.com/watch?v=St5B7hnMLjg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "C++",
+    "url": "https://www.youtube.com/watch?v=kJkB_Tggk8U",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "CSS",
+    "url": "https://www.youtube.com/watch?v=gT0Lh1eYk78",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "async/await",
+    "url": "https://www.youtube.com/watch?v=PoRJizFvM7s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "JavaScript",
+    "url": "https://www.youtube.com/watch?v=9A_jkh2AKR8",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "language, of the web",
+    "url": "https://www.youtube.com/watch?v=nGvA92h9IbU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Python",
+    "url": "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "PHP",
+    "url": "https://www.youtube.com/watch?v=mBL9Athx7ms",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Dart",
+    "url": "https://www.youtube.com/watch?v=5KlnlCq2M5Q",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Java",
+    "url": "https://www.youtube.com/watch?v=2Xa3Y4xz8_s",
+    "hostname": "www.youtube.com"
+  }
+]

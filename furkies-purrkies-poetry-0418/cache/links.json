@@ -1,0 +1,42 @@
+[
+  {
+    "title": "function",
+    "url": "https://www.youtube.com/watch?v=N8ap4k_1QEQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "loop",
+    "url": "https://www.youtube.com/watch?v=s9wW2PpJsmQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "boilerplate",
+    "url": "https://github.com/electron/electron-quick-start",
+    "hostname": "github.com"
+  },
+  {
+    "title": "manual or guide",
+    "url": "https://www.electronjs.org/docs/tutorial/quick-start",
+    "hostname": "www.electronjs.org"
+  },
+  {
+    "title": "ES2021",
+    "url": "https://www.youtube.com/watch?v=6VYpMxA4Q1k",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "JavaScript",
+    "url": "https://www.youtube.com/watch?v=afSbBjAaqeM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "node.js",
+    "url": "https://www.youtube.com/watch?v=uVwtVBpw7RQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "CouchDB",
+    "url": "https://www.youtube.com/watch?v=nlqv9Np3iAU",
+    "hostname": "www.youtube.com"
+  }
+]

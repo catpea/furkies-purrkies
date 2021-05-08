@@ -1,0 +1,21 @@
+{
+  "name": "furkies-purrkies-poetry-0106",
+  "title": "Life Of Wisdom",
+  "date": "2020-06-15T02:21:56.471Z",
+  "image": "poetry-0106-illustration.jpg",
+  "audio": "poetry-0106.mp3",
+  "id": "furkies-purrkies-poetry-0106",
+  "attachments": {},
+  "html": "<div class=\"section\">\n  <p>Song based on the <a href=\"https://news.catpea.com/read/poetry-0105\">A Life Of Wisdom, For In Wisdom We Grow Poem</a></p>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Song based on the <a href=\"https://news.catpea.com/read/poetry-0105\">A Life Of Wisdom, For In Wisdom We Grow Poem</a></div>\n  </div>\n</div>",
+  "print": "<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">Song based on the <span>A Life Of Wisdom, For In Wisdom We Grow Poem<sup>[1]</sup></span></div>\n</div>\n<div class=\"break-after\">&nbsp;</div>\n<div>\n  <div class=\"section\" style=\"padding-bottom: 1rem;\">References</div>\n  <div>[1]: https://news.catpea.com/read/poetry-0105</div>\n</div>",
+  "text": "Song based on the A Life Of Wisdom, For In Wisdom We Grow Poem\n\n\n[A Life Of Wisdom, For In Wisdom We Grow Poem]: https://news.catpea.com/read/poetry-0105",
+  "images": [],
+  "links": [
+    {
+      "title": "A Life Of Wisdom, For In Wisdom We Grow Poem",
+      "url": "https://news.catpea.com/read/poetry-0105",
+      "hostname": "news.catpea.com"
+    }
+  ]
+}

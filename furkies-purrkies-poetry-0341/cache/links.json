@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Oxygen",
+    "url": "https://www.youtube.com/watch?v=hD4KMp22jBg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Jean-Michel Jarre's Oxygen 1",
+    "url": "https://www.youtube.com/watch?v=Sj7A8SX7ccI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Jean-Michel Jarre's Oxygen 2",
+    "url": "https://www.youtube.com/watch?v=hD4KMp22jBg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Meow Oxygene",
+    "url": "/audio/meow-oxygene.mp3",
+    "hostname": "local"
+  }
+]

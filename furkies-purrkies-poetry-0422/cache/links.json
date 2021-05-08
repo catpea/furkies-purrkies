@@ -1,0 +1,17 @@
+[
+  {
+    "title": "postmarketOS",
+    "url": "https://postmarketos.org/",
+    "hostname": "postmarketos.org"
+  },
+  {
+    "title": "Alpine Linux",
+    "url": "https://alpinelinux.org/",
+    "hostname": "alpinelinux.org"
+  },
+  {
+    "title": "thermostat with a Rasperry PI",
+    "url": "https://www.olafalo.net/thermostat/",
+    "hostname": "www.olafalo.net"
+  }
+]

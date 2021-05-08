@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Rubber Duck",
+    "url": "https://www.youtube.com/watch?v=IHJd-vk5x7k",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "My most recent use of the EventEmitter, was just about a week ago",
+    "url": "https://github.com/catpea/bowel/blob/507c8e00eef06a7ba72a2d9105025e749cb94cbe/src/compiler/plugins/create-website/index.mjs#L28",
+    "hostname": "github.com"
+  }
+]

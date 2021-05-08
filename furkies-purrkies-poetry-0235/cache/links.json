@@ -1,0 +1,22 @@
+[
+  {
+    "title": "couple commands",
+    "url": "https://www.raspberrypi.org/documentation/raspbian/applications/camera.md",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "hunt down and eliminate the dead pixels",
+    "url": "https://astrofloyd.wordpress.com/2013/10/27/astrophotography-with-imagemagick/",
+    "hostname": "astrofloyd.wordpress.com"
+  },
+  {
+    "title": "Start with the $150 8GB Raspberry PI 4",
+    "url": "https://www.youtube.com/watch?v=sajBySPeYH0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Raspberry Powered Telescope",
+    "url": "https://www.youtube.com/watch?v=yLoNKmoP8qY",
+    "hostname": "www.youtube.com"
+  }
+]

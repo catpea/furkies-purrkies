@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Carl Sagan",
+    "url": "https://www.youtube.com/results?search_query=Carl+Sagan",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Neil deGrasse Tyson",
+    "url": "https://www.youtube.com/results?search_query=Neil+deGrasse+Tyson",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Seth Shostak",
+    "url": "https://www.youtube.com/results?search_query=Seth+Shostak",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Alex Filippenko",
+    "url": "https://www.youtube.com/results?search_query=Alex+Filippenko",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "The Facility",
+    "url": "https://thecabininthewoods.fandom.com/wiki/The_Facility",
+    "hostname": "thecabininthewoods.fandom.com"
+  },
+  {
+    "title": "MUD",
+    "url": "https://en.wikipedia.org/wiki/MUD",
+    "hostname": "en.wikipedia.org"
+  }
+]

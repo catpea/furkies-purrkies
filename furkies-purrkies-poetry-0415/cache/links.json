@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Install node.js",
+    "url": "https://www.youtube.com/watch?v=izOhCUdLv2s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "github tutorials",
+    "url": "https://www.youtube.com/watch?v=iv8rSLsi1xo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "microjs.com",
+    "url": "http://microjs.com/",
+    "hostname": "microjs.com"
+  },
+  {
+    "title": "type: 'module' in your package.json",
+    "url": "https://nodejs.org/api/packages.html#packages_type",
+    "hostname": "nodejs.org"
+  },
+  {
+    "title": "publish to npm",
+    "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "npm thing is just a directory of public programs and libraries",
+    "url": "https://www.youtube.com/watch?v=8Rmj5UY5mJk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "JavaScript interview questions",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions#javascript",
+    "hostname": "github.com"
+  }
+]

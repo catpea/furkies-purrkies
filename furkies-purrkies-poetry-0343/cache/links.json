@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Czterej Pancerni I Pies",
+    "url": "https://en.wikipedia.org/wiki/Four_Tank-Men_and_a_Dog",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Czterej Pancerni I Pies A Cappella",
+    "url": "/audio/czterej-pancerni.mp3",
+    "hostname": "local"
+  },
+  {
+    "title": "Mad World A Cappella",
+    "url": "/audio/meow-world.mp3",
+    "hostname": "local"
+  }
+]

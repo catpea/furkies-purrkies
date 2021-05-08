@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Duck Debugging",
+    "url": "https://en.wikipedia.org/wiki/Rubber_duck_debugging",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "8GB Raspberry Pi 4 Model B",
+    "url": "https://www.raspberrypi.org/products/raspberry-pi-4-model-b/",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "maybe get a Raspberry Pi 400 as your secondary",
+    "url": "https://www.raspberrypi.org/products/",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "mechanical keyboard",
+    "url": "https://www.youtube.com/watch?v=s6SY7AQsyI0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "AKKO",
+    "url": "https://www.amazon.com/s?k=EPOMAKER+AKKO",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "Anne Pro",
+    "url": "https://www.amazon.com/s?k=EPOMAKER+Anne+Pro",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "Electron",
+    "url": "https://www.electronjs.org/",
+    "hostname": "www.electronjs.org"
+  },
+  {
+    "title": "p5.js",
+    "url": "https://p5js.org/examples/",
+    "hostname": "p5js.org"
+  },
+  {
+    "title": "Tone.js",
+    "url": "https://tonejs.github.io/",
+    "hostname": "tonejs.github.io"
+  },
+  {
+    "title": "Node.js",
+    "url": "https://nodejs.org/en/",
+    "hostname": "nodejs.org"
+  },
+  {
+    "title": "node.js tutorials",
+    "url": "https://www.youtube.com/results?search_query=node+js+tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "SCP-087",
+    "url": "https://scp-wiki.wikidot.com/scp-087",
+    "hostname": "scp-wiki.wikidot.com"
+  },
+  {
+    "title": "CodeMirror",
+    "url": "https://codemirror.net/",
+    "hostname": "codemirror.net"
+  },
+  {
+    "title": "your own take on BDD",
+    "url": "https://www.youtube.com/watch?v=VS6EEUVZGLE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Behavior Driven Development",
+    "url": "https://www.youtube.com/watch?v=VS6EEUVZGLE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "objects",
+    "url": "https://www.youtube.com/watch?v=PFmuCDHHpwk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "MUD",
+    "url": "https://www.youtube.com/watch?v=JqC66POqhY4",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "limerick",
+    "url": "https://github.com/fantasyui-com/limerick",
+    "hostname": "github.com"
+  },
+  {
+    "title": "regular expressions",
+    "url": "https://www.youtube.com/watch?v=rhzKDrUiJVk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "example of a regular expression in the wild",
+    "url": "https://github.com/hubotio/hubot-rules/blob/fba046d31771b1a3b296ac5e653e8c616bc19230/src/rules.js#L26",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Regular Expression Visualization Tools",
+    "url": "https://regexr.com/",
+    "hostname": "regexr.com"
+  },
+  {
+    "title": "regex how do I match email address",
+    "url": "https://www.google.com/search?q=regex+how+do+I+match+email+address",
+    "hostname": "www.google.com"
+  },
+  {
+    "title": "Take a look at how I create pages of YouTube videos",
+    "url": "https://github.com/catpea/warrior/blob/eec3d4779718a01db4c854f7f61bde6479ce0183/db/the-reverse-engineer/index.yaml#L5",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Literate programming",
+    "url": "https://en.wikipedia.org/wiki/Literate_programming",
+    "hostname": "en.wikipedia.org"
+  }
+]

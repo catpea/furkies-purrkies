@@ -1,0 +1,17 @@
+[
+  {
+    "title": "L'amour est un oiseau rebelle by Elina Garanca",
+    "url": "https://www.youtube.com/watch?v=K2snTkaD64U",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "The Owl and the Pussycat från Stockholms Universitetskörs (Stockholm University Choir)",
+    "url": "https://www.youtube.com/watch?v=WAfPKNSvesI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Melody Intro Song",
+    "url": "/audio/melody-intro-song.mp3",
+    "hostname": "local"
+  }
+]

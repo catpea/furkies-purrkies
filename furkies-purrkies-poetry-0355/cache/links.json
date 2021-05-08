@@ -1,0 +1,22 @@
+[
+  {
+    "title": "drum kit",
+    "url": "https://en.wikipedia.org/wiki/Drum_kit",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "hi-hats",
+    "url": "https://en.wikipedia.org/wiki/Hi-hat",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Simple Drum Song",
+    "url": "/audio/drum-song.mp3",
+    "hostname": "local"
+  },
+  {
+    "title": "Revised Drum Song",
+    "url": "/audio/drum-song-revised.mp3",
+    "hostname": "local"
+  }
+]

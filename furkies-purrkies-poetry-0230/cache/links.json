@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Appalachian Trail",
+    "url": "https://en.wikipedia.org/wiki/Appalachian_Trail",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Pacific Crest Trail",
+    "url": "https://en.wikipedia.org/wiki/Pacific_Crest_Trail",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "El Camino de Santiago",
+    "url": "https://en.wikipedia.org/wiki/Camino_de_Santiago",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Kom-Emine",
+    "url": "https://en.wikipedia.org/wiki/Kom%E2%80%93Emine",
+    "hostname": "en.wikipedia.org"
+  }
+]

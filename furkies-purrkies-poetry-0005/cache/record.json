@@ -1,0 +1,15 @@
+{
+  "name": "furkies-purrkies-poetry-0005",
+  "title": "Grow Strong My Comrade by Will Durant",
+  "date": "2020-03-21T20:14:25.929Z",
+  "image": "poetry-0005-illustration.jpg",
+  "artwork": "https://unsplash.com/photos/IGOBsR93I7Y",
+  "id": "furkies-purrkies-poetry-0005",
+  "attachments": {},
+  "html": "<div class=\"section\">\n  <p>Grow strong, my comrade &#x2026; that you may stand</p>\n  <p>Unshaken when I fall; that I may know</p>\n  <p>The shattered fragments of my song will come</p>\n  <p>At last to finer melody in you;</p>\n  <p>That I may tell my heart that you begin</p>\n  <p>Where passing I leave off, and fathom more.&#x201D;</p>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Grow strong, my comrade … that you may stand</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Unshaken when I fall; that I may know</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">The shattered fragments of my song will come</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">At last to finer melody in you;</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">That I may tell my heart that you begin</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Where passing I leave off, and fathom more.”</div>\n  </div>\n</div>",
+  "print": "<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">Grow strong, my comrade … that you may stand</div>\n  <div class=\"paragraph\">Unshaken when I fall; that I may know</div>\n  <div class=\"paragraph\">The shattered fragments of my song will come</div>\n  <div class=\"paragraph\">At last to finer melody in you;</div>\n  <div class=\"paragraph\">That I may tell my heart that you begin</div>\n  <div class=\"paragraph\">Where passing I leave off, and fathom more.”</div>\n</div>",
+  "text": "Grow strong, my comrade … that you may stand\nUnshaken when I fall; that I may know\nThe shattered fragments of my song will come\nAt last to finer melody in you;\nThat I may tell my heart that you begin\nWhere passing I leave off, and fathom more.”",
+  "images": [],
+  "links": []
+}
