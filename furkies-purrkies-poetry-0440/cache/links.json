@@ -1,0 +1,52 @@
+[
+  {
+    "title": "you flip the switch and you get a prompt",
+    "url": "https://www.youtube.com/watch?v=ZBV_ASCLF4w",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "fragrance",
+    "url": "https://github.com/catpea/fragrance",
+    "hostname": "github.com"
+  },
+  {
+    "title": "8GB Raspberry Pi 4 Complete Starter Kit",
+    "url": "https://www.canakit.com/raspberry-pi-4-complete-starter-kit.html",
+    "hostname": "www.canakit.com"
+  },
+  {
+    "title": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Code Editors",
+    "url": "https://codemirror.net/6/",
+    "hostname": "codemirror.net"
+  },
+  {
+    "title": "Cytoscape.js",
+    "url": "https://js.cytoscape.org/",
+    "hostname": "js.cytoscape.org"
+  },
+  {
+    "title": "D3",
+    "url": "https://d3js.org/",
+    "hostname": "d3js.org"
+  },
+  {
+    "title": "Awesome node.js",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "hostname": "github.com"
+  },
+  {
+    "title": "electron",
+    "url": "https://www.electronjs.org/",
+    "hostname": "www.electronjs.org"
+  },
+  {
+    "title": "node.js tutorials",
+    "url": "https://www.youtube.com/results?search_query=node+js+tutorial",
+    "hostname": "www.youtube.com"
+  }
+]
