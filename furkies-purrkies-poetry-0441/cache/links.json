@@ -1,0 +1,37 @@
+[
+  {
+    "title": "speech about organizing code, very true, very funny, and good technology too",
+    "url": "https://www.youtube.com/watch?v=0o2whtCJw8I&t=215s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Jargon File",
+    "url": "http://www.catb.org/jargon/index.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "metasyntactic variable",
+    "url": "http://www.catb.org/jargon/html/M/metasyntactic-variable.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "flarp",
+    "url": "http://www.catb.org/jargon/html/F/flarp.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "my code just yesterday",
+    "url": "https://github.com/search?q=user%3Acatpea+flarp&type=code",
+    "hostname": "github.com"
+  },
+  {
+    "title": "hork",
+    "url": "http://www.catb.org/jargon/html/H/horked.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "Throwies",
+    "url": "https://www.youtube.com/watch?v=TrnLF04qmsM",
+    "hostname": "www.youtube.com"
+  }
+]
