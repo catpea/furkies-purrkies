@@ -1,0 +1,32 @@
+[
+  {
+    "title": "the whole thing was just 11 dollars",
+    "url": "https://www.amazon.com/gp/product/B01IH4VJRI/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "Maxwell",
+    "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "books on the shelf",
+    "url": "https://www.youtube.com/watch?v=EeCh68a1GEg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "multimeter",
+    "url": "https://www.amazon.com/gp/product/B00066ZZO4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "Free Phone Ring",
+    "url": "/audio/bonus-phone-ring.mp3",
+    "hostname": "local"
+  },
+  {
+    "title": "The Midnight Owl",
+    "url": "https://catpea.com/read/furkies-purrkies/220.html",
+    "hostname": "catpea.com"
+  }
+]
