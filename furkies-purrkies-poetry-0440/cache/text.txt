@@ -87,7 +87,6 @@ if you are interested in learning how to program, search the internet for node.j
 [fragrance]: https://github.com/catpea/fragrance
 [8GB Raspberry Pi 4 Complete Starter Kit]: https://www.canakit.com/raspberry-pi-4-complete-starter-kit.html
 [nvm]: https://github.com/nvm-sh/nvm
-[fragrance]: https://github.com/catpea/fragrance
 [Code Editors]: https://codemirror.net/6/
 [Cytoscape.js]: https://js.cytoscape.org/
 [D3]: https://d3js.org/

@@ -56,4 +56,3 @@ and your accomplishments will be that much stronger.
 [PHP]: https://www.youtube.com/watch?v=mBL9Athx7ms
 [Dart]: https://www.youtube.com/watch?v=5KlnlCq2M5Q
 [Java]: https://www.youtube.com/watch?v=2Xa3Y4xz8_s
-[language, of the web]: https://www.youtube.com/watch?v=nGvA92h9IbU
