@@ -126,11 +126,11 @@ with the most important thoughts, how lucky you are, how young, or wise, or out 
 
 ---
 
-Mark my words, the one thing you don't want to regret, is realizing how close you were to great adventures,
-that all it took, was to was to leave the car keys at home, and a good pair of fluffy socks.
+All that it takes to set off on great adventures,
+is leaving the car keys at home; and a good pair of walking shoes.
 
 Look around,
-You are surrounded by Great Adventures and Expeditions.
+You are surrounded by Adventures and Expeditions.
 
 
 [El Blizzardo]: https://www.youtube.com/watch?v=agS48ZisZEE
