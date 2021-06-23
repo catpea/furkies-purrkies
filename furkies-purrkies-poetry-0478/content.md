@@ -67,31 +67,6 @@ it is more like a pyramid, and you just keep going and going and going.
 And before you know it,
 it turns out, that you know a whole million, of somewhat-interesting stories.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [pixel games]: https://www.youtube.com/results?search_query=Arcade+Playthroughs
 [losing my most precious artifact]: https://catpea.com/read/furkies-purrkies/395/
 [understand what computer inventors are talking about]: https://www.youtube.com/results?search_query=Bret+Victor+Programming
