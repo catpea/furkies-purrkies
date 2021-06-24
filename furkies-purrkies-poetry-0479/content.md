@@ -173,6 +173,4 @@ aiming for greatness, is a path to Justice, Peace, and Freedom;
 A World,
 of Great Beings.
 
-
-
 [Φιλο Σοφία]: https://en.wikipedia.org/wiki/Philosophy
