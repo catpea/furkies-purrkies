@@ -1,8 +1,8 @@
 I suppose there probably are people who, to their own detriment, pretend to be ordinary,
 so that they can do the absolute minimum in life, but that just cuts them off from growing up.
 
-When it comes to the complete, cheerful, inquisitive, and healthy mind,
-they are perfectly unique, nothing standard, nothing ordinary.
+When it comes to the complete, cheerful, inquisitive, and healthy minds,
+they are perfectly unique; nothing standard; nothing ordinary.
 
 There is no way that another being could replace a friend,
 no two people are alike, no two beings the same interests, nobody dreams the same dreams.
