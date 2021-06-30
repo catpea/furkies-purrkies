@@ -81,7 +81,4 @@ because it directly spoke to the educated voters' minds.
 So what was confusing them about these new conditions,
 is that the program eliminated the need for the politicians.
 
-
-
-
 [1]: https://en.wikipedia.org/wiki/List_of_American_state_and_local_politicians_convicted_of_crimes
