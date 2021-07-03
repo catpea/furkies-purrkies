@@ -81,25 +81,6 @@ and they didn't know if they could make it before dark.
 Helping is just what we do, and it is not a big deal,
 but I am very proud that I told them about Bill Bryson, [Narrated Adventure Books][9], and Trail Magic.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [1]: https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ
 [2]: https://www.youtube.com/watch?v=iT2L73p0XT4
 [3]: https://www.youtube.com/watch?v=cOF2LIAp9bw
