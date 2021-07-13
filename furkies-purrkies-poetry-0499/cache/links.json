@@ -1,0 +1,37 @@
+[
+  {
+    "title": "create several miniatures",
+    "url": "https://www.youtube.com/watch?v=k_rwgbvVicE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Don't forget about the old masters",
+    "url": "https://www.youtube.com/watch?v=b4Hc5A0kkkk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "The Learning Music Tutorial",
+    "url": "https://learningmusic.ableton.com/",
+    "hostname": "learningmusic.ableton.com"
+  },
+  {
+    "title": "LMMS",
+    "url": "https://www.youtube.com/results?search_query=LMMS+Tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Object Oriented Programming",
+    "url": "https://www.youtube.com/results?search_query=JavaScript+OOP+Tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Tone.js",
+    "url": "https://tonejs.github.io/",
+    "hostname": "tonejs.github.io"
+  },
+  {
+    "title": "Yeoman",
+    "url": "https://www.youtube.com/results?search_query=Yaoman+Tutorial",
+    "hostname": "www.youtube.com"
+  }
+]
