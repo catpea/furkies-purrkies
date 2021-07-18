@@ -47,7 +47,7 @@ Or something.
 ---
 
 But you get the point, our flaw is fixed by two words,
-"__Question Everything__".
+__Question Everything__.
 
 Question grades, poverty, and wars,
 question politicians.
@@ -82,7 +82,7 @@ Here the solution is somewhat more complex,
 though still has a two word "thing".
 
 And the two words that you have to remember are:
-"__Beautiful Opposite__".
+__Beautiful Opposite__.
 
 Because we have to find the beautiful opposite,
 of what we suspect is this terrible thing that we have, and can't ever fix, and everybody else can, but we can't, ever, whatever... is.
