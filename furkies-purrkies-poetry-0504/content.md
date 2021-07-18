@@ -44,8 +44,8 @@ we will look at the results, across the entire spectrum of the Human Kind, and a
 
 ---
 
-We will look at dudges down South that didn't walk out diring segregation,
-we will look at judges that didn't walk out during Mass Incararation.
+We will look at judges down South that didn't walk out during segregation,
+we will look at judges that didn't walk out during Mass Incarceration.
 
 We will look at police officers indoctrinated into a culture of killing,
 we will look at corporations that distribute guilt among so many that all seem innocent.
