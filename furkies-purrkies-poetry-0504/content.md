@@ -95,7 +95,7 @@ The teenagers, not going to be brainlessly taught to get wasted and laid,
 and sent to college towns full of stones and bars.
 
 And schools where the model students
-are the ****** pill poppers.
+are the pill poppers.
 
 Because we will no longer harm them,
 we will help them.
