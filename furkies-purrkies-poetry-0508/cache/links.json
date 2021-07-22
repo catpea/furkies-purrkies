@@ -1,0 +1,52 @@
+[
+  {
+    "title": "external USB SoundBLASTER audio card",
+    "url": "https://us.creative.com/p/sound-blaster/sound-blaster-play-3",
+    "hostname": "us.creative.com"
+  },
+  {
+    "title": "update my ALSA config",
+    "url": "https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/updating-alsa-config",
+    "hostname": "learn.adafruit.com"
+  },
+  {
+    "title": "VLC Media Player",
+    "url": "https://www.youtube.com/watch?v=XHprwDJ0-fU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "there are only so many times that you can listen to Continental Drift while bicycling",
+    "url": "https://www.youtube.com/watch?v=uMuJxd2Gpxo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "I can connect with my phone to it, and access it using the command line",
+    "url": "https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US",
+    "hostname": "play.google.com"
+  },
+  {
+    "title": "$3 four-key keypad",
+    "url": "https://www.adafruit.com/product/1332",
+    "hostname": "www.adafruit.com"
+  },
+  {
+    "title": "Mini Wireless Keyboard",
+    "url": "https://www.amazon.com/Rii-Wireless-Keyboard-Lightweight-Controller/dp/B00I5SW8MC",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "and then ponder what to to about the screen",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Delectronics&field-keywords=Raspberry+OLED",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "cheap batteries can be dangerous",
+    "url": "https://www.youtube.com/watch?v=CUgbmCSmSNY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "figure out how the command line works",
+    "url": "https://www.youtube.com/watch?v=UW3UxK4Tiqg",
+    "hostname": "www.youtube.com"
+  }
+]
