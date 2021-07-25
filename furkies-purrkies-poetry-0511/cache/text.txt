@@ -211,7 +211,7 @@ References
 [2]: https://www.google.com/search?q=Linux+Cheat+Sheet
 [3]: https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/
 [4]: https://github.com/HackerNews/API
-[5]: https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/
+[5]: https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
 [6]: https://stedolan.github.io/jq/
 [7]: https://www.youtube.com/watch?v=I6id1Y0YuNk
 [8]: https://stedolan.github.io/jq/manual/#Basicfilters

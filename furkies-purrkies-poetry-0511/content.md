@@ -64,7 +64,7 @@ Every website offers some way of getting some of their data,
 Hacker News (a website for programmers) has a nice description of their raw data: https://github.com/HackerNews/API
 
 We learn that their website data structure is all about numbers,
-and to get at those number we have to download their [topstories.json][2]
+and to get at those number we have to download their [topstories.json][3]
 
 JSON is a file format, it is not really purrfect for the command line,
 so we will thin it, reduce it simplify with a program called [jq][4],

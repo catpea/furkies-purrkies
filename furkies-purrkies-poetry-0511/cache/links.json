@@ -21,8 +21,8 @@
   },
   {
     "title": "topstories.json",
-    "url": "https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/",
-    "hostname": "www.guyrutenberg.com"
+    "url": "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty",
+    "hostname": "hacker-news.firebaseio.com"
   },
   {
     "title": "jq",
