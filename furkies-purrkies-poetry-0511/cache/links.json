@@ -1,0 +1,117 @@
+[
+  {
+    "title": "https://linuxcommandlibrary.com/basic/oneliners",
+    "url": "https://linuxcommandlibrary.com/basic/oneliners",
+    "hostname": "linuxcommandlibrary.com"
+  },
+  {
+    "title": "you can just download a little cheat-sheet",
+    "url": "https://www.google.com/search?q=Linux+Cheat+Sheet",
+    "hostname": "www.google.com"
+  },
+  {
+    "title": "wget has a --mirror option",
+    "url": "https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/",
+    "hostname": "www.guyrutenberg.com"
+  },
+  {
+    "title": "https://github.com/HackerNews/API",
+    "url": "https://github.com/HackerNews/API",
+    "hostname": "github.com"
+  },
+  {
+    "title": "topstories.json",
+    "url": "https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/",
+    "hostname": "www.guyrutenberg.com"
+  },
+  {
+    "title": "jq",
+    "url": "https://stedolan.github.io/jq/",
+    "hostname": "stedolan.github.io"
+  },
+  {
+    "title": "curl",
+    "url": "https://www.youtube.com/watch?v=I6id1Y0YuNk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "jq tutorial",
+    "url": "https://stedolan.github.io/jq/manual/#Basicfilters",
+    "hostname": "stedolan.github.io"
+  },
+  {
+    "title": "sometimes watching a video tutorial is useful too",
+    "url": "https://www.youtube.com/watch?v=FSn_38gDvzM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "RTFM",
+    "url": "http://www.catb.org/~esr/jargon/html/R/RTFM.html",
+    "hostname": "www.catb.org"
+  },
+  {
+    "title": "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty",
+    "url": "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty",
+    "hostname": "hacker-news.firebaseio.com"
+  },
+  {
+    "title": "command line cheat sheets",
+    "url": "https://www.google.com/search?q=command+line+cheat+sheets",
+    "hostname": "www.google.com"
+  },
+  {
+    "title": "video tutorials",
+    "url": "https://www.youtube.com/results?search_query=Linux+command+line+tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "grab some pocket reference titles",
+    "url": "https://www.google.com/search?q=linux+pocket+reference",
+    "hostname": "www.google.com"
+  },
+  {
+    "title": "27941616.json",
+    "url": "https://hacker-news.firebaseio.com/v0/item/27941616.json?print=pretty",
+    "hostname": "hacker-news.firebaseio.com"
+  },
+  {
+    "title": "rsend",
+    "url": "https://github.com/catpea/rsend",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Browserless.js",
+    "url": "https://browserless.js.org/",
+    "hostname": "browserless.js.org"
+  },
+  {
+    "title": "I created a PR, short for pull request, which means that I am requesting that they pull the fixes that I have created",
+    "url": "https://github.com/microlinkhq/browserless/pull/295",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Newsbeuter",
+    "url": "https://ostechnix.com/newsbeuter-command-line-rssatom-feed-reader-unix-like-systems/",
+    "hostname": "ostechnix.com"
+  },
+  {
+    "title": "Snownews",
+    "url": "https://github.com/msharov/snownews",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Newsroom",
+    "url": "https://www.tecmint.com/newsroom-commandline-linux-news-reader/",
+    "hostname": "www.tecmint.com"
+  },
+  {
+    "title": "newsboat",
+    "url": "https://www.tecmint.com/newsboat-rss-atom-feed-reader-for-linux-terminals/",
+    "hostname": "www.tecmint.com"
+  },
+  {
+    "title": "and consider moving to desktop RSS clients",
+    "url": "https://www.youtube.com/watch?v=FSn_38gDvzM",
+    "hostname": "www.youtube.com"
+  }
+]
