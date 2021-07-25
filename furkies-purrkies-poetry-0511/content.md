@@ -266,7 +266,7 @@ Overall, our best option here, is to cut 10 entries from top of the Hacker News,
 and see if we can get away with making 10 quick requests for their top stories, and call our initial version done.
 
 Personally I would begin testing [Newsbeuter][13] [Snownews][14] [Newsroom][15] and [newsboat][16] to get the feel for command line news,
-[and consider moving to desktop RSS clients][17] so as long as they support ad blockers.
+and consider moving to desktop RSS clients so as long as they support ad blockers.
 
 And then quietly, I would begin working on my scrapers,
 being mindful that they must output RSS feeds, which then I would add to my RSS readers.

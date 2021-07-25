@@ -172,7 +172,7 @@ websites we would be scraping will sometimes update their code, and our scraper 
 Overall, our best option here, is to cut 10 entries from top of the Hacker News,
 and see if we can get away with making 10 quick requests for their top stories, and call our initial version done.
 Personally I would begin testing Newsbeuter[19] Snownews[20] Newsroom[21] and newsboat[22] to get the feel for command line news,
-and consider moving to desktop RSS clients[23] so as long as they support ad blockers.
+and consider moving to desktop RSS clients so as long as they support ad blockers.
 And then quietly, I would begin working on my scrapers,
 being mindful that they must output RSS feeds, which then I would add to my RSS readers.
 
@@ -181,7 +181,7 @@ and the more I think about it, the more fetching that little 10 news items progr
 Let us chop off the top then entries from Hacker News,
 and see if we can quickly get an overview of what is going on in the world.
 The command for getting the top of data is head, and to specify how many lines we want we use -n,
-so our command now looks like this: curl https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty[24] | jq '.[]' | head -n 10;
+so our command now looks like this: curl https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty[23] | jq '.[]' | head -n 10;
 Armed with 10 numbers that represent top stories,
 we now have to take the second step, and use each of those numbers to download the titles from Hacker News.
 And here we reuse curl, but the url that we give to curl needs to have that number inserted in there,
@@ -229,5 +229,4 @@ References
 [20]: https://github.com/msharov/snownews
 [21]: https://www.tecmint.com/newsroom-commandline-linux-news-reader/
 [22]: https://www.tecmint.com/newsboat-rss-atom-feed-reader-for-linux-terminals/
-[23]: https://www.youtube.com/watch?v=FSn_38gDvzM
-[24]: https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
+[23]: https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
