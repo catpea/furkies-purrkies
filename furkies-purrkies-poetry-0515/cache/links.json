@@ -1,0 +1,52 @@
+[
+  {
+    "title": "throwie",
+    "url": "https://www.youtube.com/watch?v=hme5ladDQ_0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "thingie",
+    "url": "https://www.amazon.com/Cellphone-Shutter-Multifunction-Playback-Smartphones/dp/B08SWC2DQW",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "light pen actions",
+    "url": "https://www.youtube.com/watch?v=EBfkiprmoi0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "So the program I wrote, has a learn function that concatenates all button data into a single recognizable ID",
+    "url": "https://github.com/catpea/isir/blob/01ef4b7e55058fde70e5098aad8402345d7e113c/command/learn.js#L51",
+    "hostname": "github.com"
+  },
+  {
+    "title": "monitors for the presence of the same flurry of key presses",
+    "url": "https://github.com/catpea/isir/blob/01ef4b7e55058fde70e5098aad8402345d7e113c/command/listen.js#L41",
+    "hostname": "github.com"
+  },
+  {
+    "title": "triggers a command that is manually associated with the ID",
+    "url": "https://github.com/catpea/isir/blob/01ef4b7e55058fde70e5098aad8402345d7e113c/command/listen.js#L49",
+    "hostname": "github.com"
+  },
+  {
+    "title": "stops",
+    "url": "https://github.com/catpea/isir/blob/01ef4b7e55058fde70e5098aad8402345d7e113c/bin/p.sh#L2",
+    "hostname": "github.com"
+  },
+  {
+    "title": "plays",
+    "url": "https://github.com/catpea/isir/blob/01ef4b7e55058fde70e5098aad8402345d7e113c/bin/p.sh#L3",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Pi-hole",
+    "url": "https://pi-hole.net/",
+    "hostname": "pi-hole.net"
+  },
+  {
+    "title": "allows for things that aren't possible with closed source phones",
+    "url": "https://www.youtube.com/watch?v=WDa_odxAGUU",
+    "hostname": "www.youtube.com"
+  }
+]
