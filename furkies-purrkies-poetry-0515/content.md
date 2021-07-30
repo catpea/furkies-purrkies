@@ -85,7 +85,7 @@ stops playing current song, and it picks a new one at random, it is surprisingly
 ---
 
 I had a fun time this Sunday learning how to manually connect a Bluetooth device,
-it took me four hours because that litthe shutter button pad, demands that pairing the device and connecting the device, happens instantly.
+it took me four hours because that little shutter button pad, demands that pairing the device and connecting the device, happens instantly.
 
 I couldn't issue the commands manually, I only had hundreds of milliseconds to go from pair to connect,
 so it needed to be scripted, the computer had to issue connect right after pairing.
