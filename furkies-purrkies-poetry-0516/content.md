@@ -83,7 +83,6 @@ and beyond a reasonable daily spending limit, does not keep track of debt.
 That is all,
 Heart Card.
 
-
 I know this is confusing for hard working people,
 for economist, for those who brainlessly watched Tigers die.
 
@@ -107,7 +106,7 @@ about the Unites States Of The World.
 
 They are beyond the reach of the future generations,
 the future doesn't understand why opinion was once equal to fact,
-and why.... the [Tigers][4] had to go.
+and why.... the [tigers][4] had to go.
 
 ---
 
@@ -135,7 +134,7 @@ Theirs is the future,
 theirs - as we've had ours already.
 
 Therefore theirs is _The World_,
-- may each generation start with visions greater than the previous.
+may each generation start with visions greater than the previous.
 
 
 
