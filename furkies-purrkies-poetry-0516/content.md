@@ -135,7 +135,7 @@ that holds us back from growing all the way up, from understanding the consequen
 Theirs is the future,
 theirs - as we've had ours already.
 
-Therefore theirs is _The World_,
+Therefore theirs, is _The World_,
 may each generation start with visions greater than the previous.
 
 
