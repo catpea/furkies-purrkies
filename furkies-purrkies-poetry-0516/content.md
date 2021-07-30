@@ -81,7 +81,9 @@ and beyond a reasonable daily spending limit, does not keep track of debt.
 ---
 
 That is all,
-Heart Card.
+I call it Heart Card.
+
+---
 
 I know this is confusing for hard working people,
 for economist, for those who brainlessly watched Tigers die.
