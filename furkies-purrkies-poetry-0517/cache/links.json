@@ -1,0 +1,22 @@
+[
+  {
+    "title": "tracing!",
+    "url": "https://en.wikipedia.org/wiki/Camera_obscura",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Pull up a photo of Mona Lisa",
+    "url": "https://www.google.com/search?q=mona+lisa",
+    "hostname": "www.google.com"
+  },
+  {
+    "title": "but there are actually 20 shades of pencils",
+    "url": "https://en.wikipedia.org/wiki/Pencil#Grading_and_classification",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "consider using a projector",
+    "url": "https://www.amazon.com/pico-projector/s?k=pico+projector",
+    "hostname": "www.amazon.com"
+  }
+]
