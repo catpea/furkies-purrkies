@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Graffiti Artists",
+    "url": "https://unsplash.com/s/photos/graffiti",
+    "hostname": "unsplash.com"
+  },
+  {
+    "title": "3D Graphic Designers",
+    "url": "https://cgsociety.org/hall-of-fame/editorpicks",
+    "hostname": "cgsociety.org"
+  },
+  {
+    "title": "Computer Art Designers",
+    "url": "https://dribbble.com/",
+    "hostname": "dribbble.com"
+  }
+]
