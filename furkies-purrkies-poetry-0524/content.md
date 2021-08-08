@@ -39,11 +39,11 @@ and proper restrooms.
 If you don't live in Michigan,
 get to the nearest lake that has campsites.
 
-And if you don't like meat, you are in luck, because you get to roast a Marshmallows,
-just wait until it cools off.
+And if you don't like meat, you are in luck,
+because you get to roast a Marshmallows.
 
 And don't forget,
-squito repellent.
+the mosquito repellent.
 
 Make sure to visit your favorite campsite every few weekends,
 while the weather is nice.
