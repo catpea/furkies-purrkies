@@ -190,4 +190,4 @@ it is just mostly a show to make money off of students, or make soundbites for r
 With knowledge comes wisdom,
 and with wisdom comes greatness.
 
-[1]: https://csg.tinkercad.com/things/iOcookFeG4o/t725.png?rev=1629508015603000000&s=&v=1
+[1]: https://www.tinkercad.com/things/iOcookFeG4o
