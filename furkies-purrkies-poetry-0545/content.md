@@ -118,7 +118,7 @@ it was the most terrifying and majestic night of my life.
 I was awoken in the middle of the night,
 it was great thunder and a proper downpour.
 
---
+---
 
 The thunder was all around,
 and I was surrounded by metal stakes in the ground.
