@@ -65,12 +65,12 @@ I wouldn't have noticed the atrocity, if I wasn't examining the fancy round corn
 ---
 
 And High School, where individuality and originality still maters, thank goodness,
-once the high schoolers figure out how easy it is to become an Industrial Product Designers.
+once the Highschoolers figure out how easy it is to become an Industrial Product Designers.
 
-They will realize that Maclemore, that "cold ass honky" was actually warning them in his [Thrift Shop song][10],
+They will realize that Maclemore, was actually warning them in his [Thrift Shop song][10],
 that paying extra for other peoples designs, is just getting tricked by a business.
 
-Blender modeling tutorials and 3D printers, are not only essential for a high scholler,
+Blender modeling tutorials and 3D printers, are not only essential for a Highschooler,
 they are critical, because that is the difference between getting tricked and being original - [and they are already getting tricked by the crappy education they are getting][2].
 
 ---
@@ -78,7 +78,7 @@ they are critical, because that is the difference between getting tricked and be
 3D Modeling original creations and printing them out on 3D printers,
 creates an interesting career path.
 
-High school diploma, and college debt is supposed to lead us to a carrer,
+High school diploma, and college debt is supposed to lead us to a career,
 but in the modern age it just takes a few hours of tutorials to get ready to sell things on online.
 
 It is possible to just sell 3D models, like a modern [armored Batman for $3][3],
