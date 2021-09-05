@@ -1,0 +1,42 @@
+[
+  {
+    "title": "https://editor.p5js.org/catpea/sketches/",
+    "url": "https://editor.p5js.org/catpea/sketches/",
+    "hostname": "editor.p5js.org"
+  },
+  {
+    "title": "https://github.com/catpea/p5",
+    "url": "https://github.com/catpea/p5",
+    "hostname": "github.com"
+  },
+  {
+    "title": "function",
+    "url": "https://www.youtube.com/watch?v=xUI5Tsl2JpY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Bret Victor’s Inventing on Principle",
+    "url": "https://www.youtube.com/watch?v=8QiPFmIMxFc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "We can’t just use plain numbers, we need to upgrade them",
+    "url": "https://www.youtube.com/watch?v=_QC42w0npwQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Any source of information on the subject of vectors will give you all the formulas",
+    "url": "https://www.mathsisfun.com/algebra/vectors.html",
+    "hostname": "www.mathsisfun.com"
+  },
+  {
+    "title": "Trigonometry is just relationships of lines moving around a circle",
+    "url": "https://www.youtube.com/watch?v=mhd9FXYdf4s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Because trigonometry, is less than 50 lines of code",
+    "url": "https://gist.github.com/jgphilpott/1378cc2cccde6d65c5fb2b6111b5a98f",
+    "hostname": "gist.github.com"
+  }
+]
