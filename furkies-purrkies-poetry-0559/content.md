@@ -67,10 +67,7 @@ The most important thing we needed was a plan out of poverty,
 meaning we needed help with building our companies.
 
 In case this is somehow too new, or too unrealistic,
-please, please, realize that, the first company the class would have co-founded together, was going to take care of getting students to visit all those places and more.
-
-We’d have lectures all around the city,
-we’d cancel grades, and burn our diplomas with 10,000 the zeal that Glorious Feminists burned their magnificent bras with.
+please, please, realize that, the first company the class would have co-founded together, was going to take care of getting students to visit all those places and more - we’d have lectures all around the city.
 
 Instead, we were just reporting how we were doing,
 in Sunaura’s Chicken Truck.
