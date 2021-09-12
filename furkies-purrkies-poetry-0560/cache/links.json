@@ -1,0 +1,22 @@
+[
+  {
+    "title": "surprise donut",
+    "url": "https://youtu.be/WaAu4L2cl4c?t=29",
+    "hostname": "youtu.be"
+  },
+  {
+    "title": "I found Rock Paper Scissors in JavaScript",
+    "url": "https://www.youtube.com/watch?v=RwFeg0cEZvQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Hack This Site",
+    "url": "https://en.wikipedia.org/wiki/HackThisSite",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "OWASP for example",
+    "url": "https://owasp.org/Top10/",
+    "hostname": "owasp.org"
+  }
+]
