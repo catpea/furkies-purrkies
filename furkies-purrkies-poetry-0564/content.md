@@ -223,8 +223,6 @@ that could perhaps help you in your amazing journeys.
 
 [Ayn Rand][X12]
 
-[Simone de Beauvoir][X13]
-
 [Lord Martin Rees][X14]
 
 [Lawrence Krauss][X15]
@@ -277,7 +275,6 @@ that could perhaps help you in your amazing journeys.
 [X10]: https://www.youtube.com/results?search_query=Richard+Dawkins
 [X11]: https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali
 [X12]: https://www.youtube.com/results?search_query=Ayn+Rand
-[X13]: https://www.youtube.com/results?search_query=Simone+de+Beauvoir
 [X14]: https://www.youtube.com/results?search_query=Lord+Martin+Rees
 [X15]: https://www.youtube.com/results?search_query=Lawrence+Krauss
 [X16]: https://www.youtube.com/results?search_query=Dan+Dennett

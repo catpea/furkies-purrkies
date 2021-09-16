@@ -141,21 +141,20 @@ Brené Brown[16]
 Richard Dawkins[17]
 Ayaan Hirsi Ali[18]
 Ayn Rand[19]
-Simone de Beauvoir[20]
-Lord Martin Rees[21]
-Lawrence Krauss[22]
-Daniel Dennett[23]
-Sam Harris[24]
-Christopher Hitchens[25]
-Bill Bryson[26]
-PZ Myers[27]
-Alex Filippenko[28]
-Seth Shostak[29]
-Sean Carroll[30]
-Jared Diamond[31]
-Howard Zinn[32]
-Noam Chomsky[33]
-Philip Zimbardo[34]
+Lord Martin Rees[20]
+Lawrence Krauss[21]
+Daniel Dennett[22]
+Sam Harris[23]
+Christopher Hitchens[24]
+Bill Bryson[25]
+PZ Myers[26]
+Alex Filippenko[27]
+Seth Shostak[28]
+Sean Carroll[29]
+Jared Diamond[30]
+Howard Zinn[31]
+Noam Chomsky[32]
+Philip Zimbardo[33]
  
 References
 [1]: https://www.youtube.com/results?search_query=appalachian+trail+pacific+crest+trail%2C+continental+divide+trail+AT%2C+PCT%2C+CDT
@@ -177,18 +176,17 @@ References
 [17]: https://www.youtube.com/results?search_query=Richard+Dawkins
 [18]: https://www.youtube.com/results?search_query=Ayaan+Hirsi+Ali
 [19]: https://www.youtube.com/results?search_query=Ayn+Rand
-[20]: https://www.youtube.com/results?search_query=Simone+de+Beauvoir
-[21]: https://www.youtube.com/results?search_query=Lord+Martin+Rees
-[22]: https://www.youtube.com/results?search_query=Lawrence+Krauss
-[23]: https://www.youtube.com/results?search_query=Dan+Dennett
-[24]: https://www.youtube.com/results?search_query=Sam+Harris
-[25]: https://www.youtube.com/results?search_query=Christopher+Hitchens
-[26]: https://www.youtube.com/results?search_query=Bill+Bryson
-[27]: https://www.youtube.com/results?search_query=PZ+Myers
-[28]: https://www.youtube.com/results?search_query=Alex+Filippenko
-[29]: https://www.youtube.com/results?search_query=Seth+Shostak
-[30]: https://www.youtube.com/results?search_query=Sean+Carroll
-[31]: https://www.youtube.com/results?search_query=Jared+Diamond
-[32]: https://www.youtube.com/results?search_query=Howard+Zinn
-[33]: https://www.youtube.com/results?search_query=Noam+Chomsky
-[34]: https://www.youtube.com/results?search_query=Philip+Zimbardo
+[20]: https://www.youtube.com/results?search_query=Lord+Martin+Rees
+[21]: https://www.youtube.com/results?search_query=Lawrence+Krauss
+[22]: https://www.youtube.com/results?search_query=Dan+Dennett
+[23]: https://www.youtube.com/results?search_query=Sam+Harris
+[24]: https://www.youtube.com/results?search_query=Christopher+Hitchens
+[25]: https://www.youtube.com/results?search_query=Bill+Bryson
+[26]: https://www.youtube.com/results?search_query=PZ+Myers
+[27]: https://www.youtube.com/results?search_query=Alex+Filippenko
+[28]: https://www.youtube.com/results?search_query=Seth+Shostak
+[29]: https://www.youtube.com/results?search_query=Sean+Carroll
+[30]: https://www.youtube.com/results?search_query=Jared+Diamond
+[31]: https://www.youtube.com/results?search_query=Howard+Zinn
+[32]: https://www.youtube.com/results?search_query=Noam+Chomsky
+[33]: https://www.youtube.com/results?search_query=Philip+Zimbardo
