@@ -88,7 +88,7 @@ Your journals of day to day adventure,
 as you take to the arms of Mother Nature.
 
 She will light your glowing ember,
-even if it is damp and drizzly November, and especially if it is deep and dark December,
+even if it is [damp and drizzly November][3], and especially if it is [deep and dark December][4],
 
 [Get a hold of the trail][2],
 even if you think you are going to fail.
@@ -98,3 +98,5 @@ may your wisdom set the world free, and grow, grow endlessly.
 
 [1]: https://www.youtube.com/watch?v=A41CQzqUj8c
 [2]: https://www.youtube.com/watch?v=hPSvdKTEZug
+[3]: https://youtu.be/2pY3DztEa4U?t=83
+[4]: https://www.youtube.com/watch?v=ntHOqosgBYQ
