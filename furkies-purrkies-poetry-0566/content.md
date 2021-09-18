@@ -90,10 +90,11 @@ as you take to the arms of Mother Nature.
 She will light your glowing ember,
 even if it is damp and drizzly November, and especially if it is deep and dark December,
 
-Get a hold of the trail,
+[Get a hold of the trail][2],
 even if you think you are going to fail.
 
 Fill a journal after journal from the mountains to the sea,
 may your wisdom set the world free, and grow, grow endlessly.
 
 [1]: https://www.youtube.com/watch?v=A41CQzqUj8c
+[2]: https://www.youtube.com/watch?v=hPSvdKTEZug
