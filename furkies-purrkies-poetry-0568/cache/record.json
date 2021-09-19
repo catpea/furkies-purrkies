@@ -1,0 +1,15 @@
+{
+  "name": "furkies-purrkies-poetry-0568",
+  "id": "furkies-purrkies-poetry-0568",
+  "title": "True Confessions Of An Industrial Designer",
+  "date": "2021-09-19T19:22:37.489Z",
+  "image": "poetry-0568-illustration.jpg",
+  "artwork": "https://example.com",
+  "audio": "poetry-0568.mp3",
+  "html": "<div class=\"section\">\n  <p>I have been a designer for about a month now,<br>and I have matured extremely quickly.</p>\n  <p>I am very proud to be cheerfully unhappy,<br>with the so called work of all the other designers.</p>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">I have been a designer for about a month now,<br>and I have matured extremely quickly.</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">I am very proud to be cheerfully unhappy,<br>with the so called work of all the other designers.</div>\n  </div>\n</div>",
+  "print": "<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">I have been a designer for about a month now,<br>and I have matured extremely quickly.</div>\n  <div class=\"paragraph\">I am very proud to be cheerfully unhappy,<br>with the so called work of all the other designers.</div>\n</div>",
+  "text": "I have been a designer for about a month now,\nand I have matured extremely quickly.\nI am very proud to be cheerfully unhappy,\nwith the so called work of all the other designers.",
+  "images": [],
+  "links": []
+}

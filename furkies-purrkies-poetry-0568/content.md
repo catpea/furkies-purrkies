@@ -1,0 +1,5 @@
+I have been a designer for about a month now,
+and I have matured extremely quickly.
+
+I am very proud to be cheerfully unhappy,
+with the so called work of all the other designers.
