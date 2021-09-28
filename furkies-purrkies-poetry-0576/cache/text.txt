@@ -32,7 +32,7 @@ This is not a lesson in astrophysics,
 this is a lesson in when and where we are.
 Once we get to Stromatolites[2],
 we will start the countdown[3] towards the Modern Human[4].
-[And only once we get to Mesopotamia, will we talk about mathematics][mesopotamia],
+And only once we get to Mesopotamia, will we talk about mathematics[5],
 and math will be introduced along the line of time, from ancient times to Sir Newton and beyond.
 
 This is a survey course,
@@ -51,8 +51,6 @@ Direct introduction is fraud,
 it is how knowledge is stolen from students.
 Cutting up subjects and poisoning them with abstraction and timed divisions,
 is how students are sold for paychecks and tricked into memorization.
-This will neither be forgiven,
-nor forgotten - it must end now.
 
 To the students,
 
@@ -97,3 +95,4 @@ References
 [2]: https://www.youtube.com/watch?v=N-G7IJCkyvg
 [3]: https://www.youtube.com/watch?v=jtNs5k2KHXU
 [4]: https://www.youtube.com/watch?v=pkX-hLiU_r8
+[5]: https://www.youtube.com/watch?v=SDOLka6KAqs

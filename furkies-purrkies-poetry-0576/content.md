@@ -81,9 +81,6 @@ it is how knowledge is stolen from students.
 Cutting up subjects and poisoning them with abstraction and timed divisions,
 is how students are sold for paychecks and tricked into memorization.
 
-This will neither be forgiven,
-nor forgotten - it must end now.
-
 ---
 
 To the students,
@@ -143,7 +140,7 @@ reject memorization.
 Travel your constellations in search of real education,
 build your cathedrals of knowledge, build the future.
 
-[mespopotamia]: https://www.youtube.com/watch?v=SDOLka6KAqs
+[mesopotamia]: https://www.youtube.com/watch?v=SDOLka6KAqs
 [countdown]: https://www.youtube.com/watch?v=jtNs5k2KHXU
 [sapiens]: https://www.youtube.com/watch?v=pkX-hLiU_r8
 [honor]: https://www.youtube.com/watch?v=TnSiL7gCs4A
