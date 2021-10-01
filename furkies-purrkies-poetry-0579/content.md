@@ -72,13 +72,13 @@ for _they are_ the soon to be the new Representatives and Congressmen, President
 ---
 
 It will be up to the politicians to implement the end of poverty,
-it is rather easy, food-medical-educational-housinf-need charges will always process through, though the governments will haggle like hell.
+it is rather easy, food-medical-educational-housing-need charges will always process through, though the governments will haggle like hell.
 
 The challenge will be in making these changes global,
 and the uniformity of this wiser system will encourage limitations.
 
 There will be a little more than a single point that needs to be made,
-to clean up the plastics. For every new kilogram of plastic, ten killograms must be scooped up out of dumps, rivers, lakes, seas and oceans.
+to clean up the plastics. For every new kilogram of plastic, ten kilograms must be scooped up out of dumps, rivers, lakes, seas and oceans.
 
 It is an easy cleanup system,
 it is very challenging to the industries that caused the pollution - the children will love that.
