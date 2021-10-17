@@ -47,7 +47,7 @@ is that we get used to building bridges, a lot.
 The ability to create photo realistic drawings,
 for example, is about creating a system of things.
 It is not about knowing how to do it by hand,
-initially everything is carefully planned.
+initially everything is carefully pre-planned.
 Later we find we memorize a lot of it somehow,
 but it is better to teach rather than pretend to wow.
 It is best to share,
