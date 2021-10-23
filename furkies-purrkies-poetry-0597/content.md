@@ -9,7 +9,7 @@ was from biographies that I bought.
 
 ---
 
-Alex The Super-tramp taught me,
+Alex The Supertramp taught me,
 that I [can't be free on a bended knee][alex].
 
 J. Maarten Troost showed me that I was right,
