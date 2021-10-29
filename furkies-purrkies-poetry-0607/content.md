@@ -21,7 +21,7 @@ that many keep it in hiding.
 Many doctors don't even want you to know about tails,
 as often they cure every ailment and then their business fails.
 
-Therapists at rehab are also offenders,
+Therapists are the worst offenders,
 because they hide the fact that a tail will keep from going on benders.
 
 A lot of conspiracies work hard at hiding the power of the tail,
