@@ -22,7 +22,7 @@ Many doctors don't even want you to know about tails,
 as often they cure every ailment and then their business fails.
 
 Therapists are the worst offenders,
-because they hide the fact that a tail will keep from going on benders.
+as they hide the fact that a tail will keep their patients from going on benders.
 
 A lot of conspiracies work hard at hiding the power of the tail,
 but in the end they will all fail.
@@ -32,7 +32,7 @@ to make the power of the tail seem like fraud.
 
 ---
 
-The Chinese monkey king, who is a god,
+The mythical Chinese Monkey King, who is a god,
 relied on his tail to escape the underworld with his magical rod.
 
 Tails are behind the mystery,
