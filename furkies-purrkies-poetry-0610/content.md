@@ -2,7 +2,7 @@ I immediately made New York my home,
 I even took the subway to the Far Rockaway Beach a couple of times.
 
 I felt most comfortable sitting quietly on Brooklyn Bridge,
-with lady liberty as my company.
+with Lady Liberty as my company.
 
 There was an old broken down bench,
 on the Manhattan side, that I made my own.
