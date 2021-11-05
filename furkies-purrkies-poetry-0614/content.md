@@ -20,7 +20,7 @@ they are thick with ideas, lessons, thoughts.
 
 ---
 
-One time I was looking over dubstep,
+One time I was looking over Dubstep,
 which is very difficult to dance to.
 
 And I saw skrillex using a grid of buttons to control music,
