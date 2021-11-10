@@ -76,5 +76,5 @@ and your stories will become literary hits.
 Be it a long or a short read,
 all cheerful books are a pleasure, in deed.
 
-Aside from the pleasure,
+And aside from the pleasure,
 an adventure book is a time capsule and a magnificent treasure.
