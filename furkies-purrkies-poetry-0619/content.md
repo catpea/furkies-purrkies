@@ -226,7 +226,7 @@ Real education is absolutely the most important thing in the world,
 without it we will be making decisions based on wrong information.
 
 I think the urgency of coherent powerful self education,
-is such that the question of organized education is more about entertainment - isn't that what a Dog And Pony show is?
+is such that the question of organized education is more about entertainment; isn't that what a Dog And Pony show is?
 
 
 [1]: https://www.youtube.com/watch?v=GOGru_4z1Vc
