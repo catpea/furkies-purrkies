@@ -1,0 +1,12 @@
+[
+  {
+    "title": "your tool would report 70 beats per minute, since we are skipping every other beat",
+    "url": "https://www.beatsperminuteonline.com/",
+    "hostname": "www.beatsperminuteonline.com"
+  },
+  {
+    "title": "full song",
+    "url": "/audio/poke-poke-song.mp3",
+    "hostname": "local"
+  }
+]
