@@ -141,7 +141,7 @@ but lecture quality has to be on par with world's bestsellers.
 I can't quite imagine what that would look like,
 a fascinating inspirational two hour move like experience for every lecture.
 
-They __have to be___ the books, audio books, video lectures, and movies,
+They __have to be__ the books, audio books, video lectures, and movies,
 that are truly worthy of the students that represent the future of Human Kind.
 
 
