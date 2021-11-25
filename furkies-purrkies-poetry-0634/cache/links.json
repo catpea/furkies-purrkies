@@ -13,5 +13,10 @@
     "title": "High Hats",
     "url": "https://en.wikipedia.org/wiki/Hi-hat",
     "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "song in full",
+    "url": "/audio/turkey-song.mp3",
+    "hostname": "local"
   }
 ]

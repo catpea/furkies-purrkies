@@ -76,9 +76,10 @@ of a high hat.
 
 (hats)
 
-And here is the song in full,
+And here is the [song in full][4],
 but I must warn you, do not play this song around male turkeys.
 
 [1]: https://en.wikipedia.org/wiki/Tom-tom_drum
 [2]: https://en.wikipedia.org/wiki/Snare_drum
 [3]: https://en.wikipedia.org/wiki/Hi-hat
+[4]: /audio/turkey-song.mp3
