@@ -15,7 +15,7 @@ While inventing does not always have to end in sales,
 Making a little bit of money along the way,
 can be a neat motivational force and a fun reward.
 
-[There are 3D printers that have a convener belt instead of a platter][3],
+[There are 3D printers that have a conveyor belt instead of a platter][3],
 so as long as they are fed filament, they will just keep printing day and night.
 
 I often mention 3D printing because it is a powerful example,
