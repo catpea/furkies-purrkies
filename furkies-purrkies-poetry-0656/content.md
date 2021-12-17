@@ -1,7 +1,7 @@
 My growing up was strange and abstract,
 hardly anything on TV made real sense.
 
-And my comics were complicated an nuanced,
+And my comics were complicated and nuanced,
 and I never had all the issues, just questions.
 
 I think the TV shows where I come from aim to be strange,
