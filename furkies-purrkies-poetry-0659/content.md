@@ -4,7 +4,7 @@ how will it look like, how is the light, how does it scale.
 But sketching is also a great way,
 to create many fancy drawings.
 
-Art this day an age,
+Art, this day an age,
 begins with a cute original photo that you took.
 
 Personally I believe,
