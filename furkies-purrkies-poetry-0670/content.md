@@ -49,9 +49,6 @@ needed to grasp the fact that schools are not working.
 Leaders want workers,
 teachers want food.
 
-The real idiots,
-are those who think grades are a good idea.
-
 ---
 
 Let us replace the word smart with the word intelligent,
