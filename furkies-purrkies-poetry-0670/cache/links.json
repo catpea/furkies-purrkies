@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Choose Your Own Adventure",
+    "url": "https://www.youtube.com/watch?v=B-f5YelgmMs&t=124s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Wikiversity",
+    "url": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+    "hostname": "en.wikiversity.org"
+  },
+  {
+    "title": "Khan Academy",
+    "url": "https://www.youtube.com/c/khanacademy",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Wikihow",
+    "url": "https://www.wikihow.com/Main-Page",
+    "hostname": "www.wikihow.com"
+  }
+]
