@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Raspberry PI",
+    "url": "https://www.amazon.com/dp/B08B6F1FV5/",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "learn programming",
+    "url": "https://www.youtube.com/results?search_query=node+js+tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "PI Camera",
+    "url": "https://learn.adafruit.com/raspberry-pi-hq-camera-case",
+    "hostname": "learn.adafruit.com"
+  },
+  {
+    "title": "Drawing Tablet",
+    "url": "https://www.amazon.com/dp/B078YR2MTF",
+    "hostname": "www.amazon.com"
+  },
+  {
+    "title": "3D Printer",
+    "url": "https://www.youtube.com/watch?v=gokN9xNG94U",
+    "hostname": "www.youtube.com"
+  }
+]
