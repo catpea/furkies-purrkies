@@ -1,0 +1,17 @@
+[
+  {
+    "title": "lmms tutorial",
+    "url": "https://www.youtube.com/watch?v=3qfa9hGJzoY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "full song",
+    "url": "/audio/poetry-0679-full.mp3",
+    "hostname": "local"
+  },
+  {
+    "title": "raw song",
+    "url": "/audio/poetry-0679-raw.mp3",
+    "hostname": "local"
+  }
+]
