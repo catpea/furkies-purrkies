@@ -64,7 +64,7 @@ Dancing enhances endurance and strength,
 and then you can jog any length.
 
 In time I'll learn to jog faster too,
-that is something that's on top of my todo.
+that is something that's on top of my to-do.
 
 ---
 
