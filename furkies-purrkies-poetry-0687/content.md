@@ -19,7 +19,7 @@ But your Art Book comes second to your Portfolio,
 and the portfolio is the organizational principle.
 
 Take good care of everything you create and upload it to
-a popular online portfolio site.
+a [popular online portfolio site][4].
 
 Over the years,
 you will create a fascinating catalog of all your art.
@@ -188,3 +188,4 @@ you are... An Artist.
 [1]: https://www.youtube.com/results?search_query=low+brow%2C+pop+surrealism
 [2]: https://www.youtube.com/watch?v=7NFnqMkVQBA
 [3]: https://www.youtube.com/watch?v=OITEe6Dcf7U
+[4]: https://dribbble.com/catpea

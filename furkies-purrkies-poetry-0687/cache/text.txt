@@ -12,7 +12,7 @@ they will show your beginnings, your progress and serve as icons or decorations 
 But your Art Book comes second to your Portfolio,
 and the portfolio is the organizational principle.
 Take good care of everything you create and upload it to
-a popular online portfolio site.
+a popular online portfolio site[1].
 Over the years,
 you will create a fascinating catalog of all your art.
 People will love to visit your beginnings,
@@ -32,7 +32,7 @@ Give the troublemakers plenty of stickers,
 and encourage them to become artists too.
 
 If you aren't sure what you want to create,
-there is this amazing art movement called Low Brow, or Pop Surrealism[1].
+there is this amazing art movement called Low Brow, or Pop Surrealism[2].
 To me low brow is about cute strange things, that make people of all ages smile,
 like the silly cat I drew for you.
 I suspect, that Low Brow is the greatest form of art,
@@ -51,8 +51,8 @@ your aunt will love that more than her portrait.
 She will recognize that you were overflowing with silliness and creativity,
 that the artwork you create for her, will only exist one time in this universe.
 
-The program you should use is called Krita[2],
-and you need the $40 XP-PEN 640[3].
+The program you should use is called Krita[3],
+and you need the $40 XP-PEN 640[4].
 
 In digital painting,
 you are tasked with managing layers of your painting.
@@ -120,6 +120,7 @@ Because you are Royalty,
 you are... An Artist.
  
 References
-[1]: https://www.youtube.com/results?search_query=low+brow%2C+pop+surrealism
-[2]: https://www.youtube.com/watch?v=7NFnqMkVQBA
-[3]: https://www.youtube.com/watch?v=OITEe6Dcf7U
+[1]: https://dribbble.com/catpea
+[2]: https://www.youtube.com/results?search_query=low+brow%2C+pop+surrealism
+[3]: https://www.youtube.com/watch?v=7NFnqMkVQBA
+[4]: https://www.youtube.com/watch?v=OITEe6Dcf7U
