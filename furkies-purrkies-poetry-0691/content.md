@@ -269,20 +269,6 @@ as promised.
 
 (Pancerni plays)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [1]: https://catpea.com/read/furkies-purrkies/343/
 [2]: https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M
 [3]: https://learningmusic.ableton.com/
@@ -294,7 +280,7 @@ as promised.
 [9]: https://www.youtube.com/watch?v=V4D4TcgppD8
 [10]: https://www.youtube.com/watch?v=hPSvdKTEZug
 [11]: https://www.rhymezone.com/
-[12]: http://127.0.0.1:8080/read/furkies-purrkies/220/
+[12]: https://catpea.com/read/furkies-purrkies/220/
 [13]: https://www.youtube.com/watch?v=ZcXDMUX-1cY
 [14]: https://www.youtube.com/watch?v=S_w-e45TxnQ
 [15]: https://www.youtube.com/watch?v=W2812xMm9bs
