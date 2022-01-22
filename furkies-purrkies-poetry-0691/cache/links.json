@@ -20,6 +20,11 @@
     "hostname": "www.youtube.com"
   },
   {
+    "title": "Red Red Rose",
+    "url": "/audio/red-red-rose.mp3",
+    "hostname": "local"
+  },
+  {
     "title": "Appalachian Trail",
     "url": "https://www.youtube.com/watch?v=EzXP5PjRHjM",
     "hostname": "www.youtube.com"
@@ -73,5 +78,10 @@
     "title": "Shuffle Dancing",
     "url": "https://www.youtube.com/watch?v=Dc6B14K1SZ8",
     "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Czterej Pancerni",
+    "url": "/audio/czterej-pancerni-from-memory.mp3",
+    "hostname": "local"
   }
 ]

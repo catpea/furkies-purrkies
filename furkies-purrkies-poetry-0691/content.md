@@ -65,7 +65,7 @@ and use a fake Scott accent for Red Red Rose.
 Interestingly enough I need to power up my Scott accent before I soil it,
 and for this I go watch one of my favorite videos [Three Scotts In A Ballon][6] - and what else could they possibly be doing.
 
-(Red Red Rose Plays)
+([Red Red Rose][A] Plays)
 
 For a more down to earth superpower,
 I would like to take moment here and mention Night Vision.
@@ -267,7 +267,7 @@ invited that drop randomness into their creative process, and had great fun some
 And here is the song that started this strange poem,
 as promised.
 
-(Pancerni plays)
+([Czterej Pancerni][B] plays)
 
 [1]: https://catpea.com/read/furkies-purrkies/343/
 [2]: https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M
@@ -286,3 +286,5 @@ as promised.
 [15]: https://www.youtube.com/watch?v=W2812xMm9bs
 [16]: https://www.youtube.com/watch?v=SfckkC4w5Qk&list=PLteS2tgSPWsgk0tGquIAVhSUzhYg1WGnG
 [17]: https://www.youtube.com/watch?v=Dc6B14K1SZ8
+[A]: /audio/red-red-rose.mp3
+[B]: /audio/czterej-pancerni-from-memory.mp3
