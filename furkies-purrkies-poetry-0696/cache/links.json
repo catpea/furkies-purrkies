@@ -1,0 +1,22 @@
+[
+  {
+    "title": "If you spend a little bit of time with the tiny tutorials",
+    "url": "https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "there is a Desktop variant",
+    "url": "https://sakazuki.github.io/node-red-desktop/",
+    "hostname": "sakazuki.github.io"
+  },
+  {
+    "title": "node.js tutorials",
+    "url": "https://www.youtube.com/results?search_query=nodejs+tutorial",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "cook book ideas",
+    "url": "https://cookbook.nodered.org/",
+    "hostname": "cookbook.nodered.org"
+  }
+]
