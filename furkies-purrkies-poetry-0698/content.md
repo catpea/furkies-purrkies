@@ -209,3 +209,9 @@ you have a marketplace.
 
 By having this ability to request custom cards,
 all your users become programmers.
+
+---
+
+Take a look at [Visual Programming Libraries on GitHub][1]
+
+[1]: https://github.com/topics/visual-programming?l=javascript
