@@ -36,7 +36,7 @@ She's building sculptures that dance,
 and her artworks are all ever France.
 
 She's opened up a time portal,
-and became beloved and immortal."
+and became admired, beloved and immortal."
 
 ---
 
@@ -57,7 +57,7 @@ it continues growing like a giant Sequoya tree.
 A story is a work of art too,
 even if all its parts are perfectly true.
 
-That means stories, ideas, inventions, and daydreams,
+That means regular stories, average ideas, popular inventions, and beautiful daydreams,
 are a lot more important than it seems.
 
 Life! is a work of art as well,
