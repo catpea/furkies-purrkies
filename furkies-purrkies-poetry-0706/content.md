@@ -1,5 +1,5 @@
 I will introduce you to a clock,
-that you can use as a memory stick.
+that you can use as a measuring stick.
 
 I will show that Universal Income,
 and Real Education solve the problems you will soon face.
@@ -7,7 +7,7 @@ and Real Education solve the problems you will soon face.
 And I will ask you to stage a protest,
 and build a real school, where people can learn for real.
 
-When the world - that is to say the students - are ready,
+When the world - that is to say your students - are ready,
 the money for Basic Income will come from the improved future of the world that does not suffer an irreparable collapse.
 
 Money is an imaginary concept,
