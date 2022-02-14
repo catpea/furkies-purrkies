@@ -8,7 +8,7 @@ And while I am not a fan of social media,
 there was a photo with good eyes I could practice on.
 
 I am sure the internet stranger I painted,
-will at the very least, exhale some air through her nose, so she is not going to be upset.
+will like it.
 
 This was a very fun, but also exhausting challenge,
 it probably took six or eight hours, and I had to get everything perfect in a single sitting.
