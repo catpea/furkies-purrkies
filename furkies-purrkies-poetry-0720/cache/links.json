@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dribbble",
+    "url": "https://dribbble.com/",
+    "hostname": "dribbble.com"
+  },
+  {
+    "title": "Creative Market",
+    "url": "https://creativemarket.com/",
+    "hostname": "creativemarket.com"
+  },
+  {
+    "title": "The text will be written in BDD's Given When Then syntax",
+    "url": "https://www.youtube.com/watch?v=VS6EEUVZGLE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "MediaWiki",
+    "url": "https://www.mediawiki.org",
+    "hostname": "www.mediawiki.org"
+  },
+  {
+    "title": "Artwork story",
+    "url": "https://www.reddit.com/r/redditgetsdrawn/comments/sskjka/me_with_my_dog/hxjav22/?utm_source=reddit&utm_medium=web2x&context=3",
+    "hostname": "www.reddit.com"
+  },
+  {
+    "title": "Time-lapse video",
+    "url": "https://youtu.be/ov9m1iTJgSk",
+    "hostname": "youtu.be"
+  }
+]
