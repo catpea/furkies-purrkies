@@ -501,7 +501,7 @@ Anyways, when you have a Grue on your blue team,
 that consistently chomps red team members, the world becomes a much happier place.
 
 For those of you struggling to come up with a name for this new and groundgreaking technology, I offer:
-Complete And Through Protective Electronic Armor, or C.A.T.P.E.A. for short.
+Complete And Thorough Protective Electronic Armor, or C.A.T.P.E.A. for short.
 
 
 
