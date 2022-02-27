@@ -61,3 +61,4 @@ Thus, it should be our preference,
 that we pick colors directly from our photo reference.
 
 [Original Artwork Challenge](https://www.reddit.com/r/redditgetsdrawn/comments/ss7czm/this_is_me/hygjsax/?utm_source=reddit&utm_medium=web2x&context=3)
+[Time-lapse](https://youtu.be/hvb4fQ6LqTo)
