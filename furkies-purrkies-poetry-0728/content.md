@@ -136,7 +136,7 @@ I grew up hearing of a painting so large,
 that it was said, I could get lost in it.
 
 When I got a bit older I finally went to visit it,
-the painting was the room.
+[the painting was the room][2].
 
 You couldn't walk up to it,
 as the painting merged with he floor that had real sand and battle artifacts scattered over it.
@@ -176,9 +176,6 @@ set opacity to 50%, and let it serve you as the shape guide, and the source of p
 May your art begin with Hyperrealism,
 for there are great universes waiting for you, to open the door.
 
-
-
-
-
 [0]: https://en.wikipedia.org/wiki/Sophie_Gengembre_Anderson
 [1]: https://www.youtube.com/watch?v=DzSnvxejenY
+[2]: https://www.youtube.com/watch?v=B2uetRVK_Tk
