@@ -391,7 +391,7 @@ We had this wonderful JavaScript, ORM, REST and Objects and URL paths experience
 and now it is an explosion of User Interface complexity.
 
 And workflows, because, bob is not who he says he is, at all,
-[his real name is Mallory, and no, he does not belong to a don't leak all the internal repos red team, he's from Odessa, Mallory is Malicious][0].
+[his real name is Mallory, and no, he does not belong to a don't leak all the internal repos red team, Mallory is Malicious][0].
 
 He will try to change the password,
 even though he is password-less, and one thousand other things, and one of them, will gran him remote code execution.
