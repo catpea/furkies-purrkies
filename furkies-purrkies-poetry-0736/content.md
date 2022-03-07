@@ -1,0 +1,38 @@
+Oh my lovely butterfly,
+I painted you on my eighteenth try.
+
+You didn't want to come out at first,
+as I had crooked hands that were cursed.
+
+I painted and painted and got nothing in return,
+being on a timer I felt concern.
+
+Everything I did looked flat,
+like someone took a shoe and splat!
+
+I sat there thinking about you,
+until I became blue.
+
+---
+
+Oh my butterfly,
+why?
+
+---
+
+Alas, you showed me the way,
+and it was right in front of my face all day.
+
+The wing that stands taller,
+must be of different color.
+
+But this is not just about shadows,
+and not even the pose.
+
+It is just the magic of wings,
+it is just one of those things.
+
+---
+
+Oh sure you look a little retarded,
+but you are how my hand drawn art started.
