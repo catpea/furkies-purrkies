@@ -62,4 +62,4 @@ Life is not about becoming good at one thing, or learning one job,
 it is good to aim to learn all the things and every thingamabob.
 
 
-[Title Image Contest](https://www.reddit.com/r/redditgetsdrawn/comments/tfhkkw/this_is_my_hamster_pixie/) and [Time Lapse](https://youtu.be/uOKY9P5FTHM)
+[Title Image Contest](https://www.reddit.com/r/redditgetsdrawn/comments/tfhkkw/this_is_my_hamster_pixie/) and [Video Time Lapse](https://youtu.be/uOKY9P5FTHM)
