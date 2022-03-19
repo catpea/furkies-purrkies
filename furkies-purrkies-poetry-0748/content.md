@@ -95,3 +95,5 @@ and your touch will speak with larger eyes, and that edge of sunlight, and the c
 
 Art is here for all of us, whether it calls to you or not, know that you are an artist,
 You Are An Artist.
+
+[Painting Challenge](https://www.reddit.com/r/redditgetsdrawn/comments/tg87a6/this_is_my_cat/) and [Time Lapse](https://youtu.be/J3FlzckuRFM)
