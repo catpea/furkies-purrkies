@@ -85,3 +85,5 @@ the on-ramp to digital painting be it portraits of landscapes is very pleasant.
 
 We are all artists,
 we were artists, all along.
+
+[Time-lapse](https://youtu.be/WDYjHLxu1H0)
