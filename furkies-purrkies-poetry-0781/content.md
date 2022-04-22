@@ -103,4 +103,4 @@ but [Super Realism will enhance human features without unnecessary distortion][2
 
 
 [1]: https://www.hyperrealism.eu/painters/?subject=portrait
-[2]: https://www.instagram.com/iraklinadar/
+[2]: https://www.artstation.com/nadar
