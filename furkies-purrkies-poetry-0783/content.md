@@ -102,7 +102,7 @@ They will still be stanching subscribers by calling you FAKE,
 the day you exhibit at Museum of Modern Art...
 
 Or Guggenheim, or Centre Pompidou, or,
-the Musée d’Art DAR Moderne de la Ville de Paris.
+the Musée d’Art Moderne de la Ville de Paris.
 
 Lying is their art,
 and they don't perceive things like hate.
