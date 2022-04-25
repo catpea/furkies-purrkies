@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "title": "simplified models",
+    "url": "https://www.youtube.com/watch?v=_ZlqtNmMICQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "real face",
+    "url": "https://www.youtube.com/watch?v=tnd4CtXmQTE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "small potato",
+    "url": "https://www.youtube.com/watch?v=d58P2hSxbEk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Lady with an Ermine",
+    "url": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "3D Modeling",
+    "url": "https://www.youtube.com/watch?v=9xAumJRKV6A",
+    "hostname": "www.youtube.com"
+  }
+]

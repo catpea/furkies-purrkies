@@ -1,4 +1,52 @@
-Improving your reference images,
-prior to painting helps you push away organic painting for later.
-By leaving organic painting to the future,
-when you finally approach it, it will be with years of training.
+There actually is,
+a good use for drawing simplified models[1].
+Where you draw a face model on your source image,
+mark all the distances, and make all the relative measurements.
+And then repaint the super-simplified model again,
+but this time on your empty canvas.
+This technique also works for the body,
+there you will mark knees and joints and shoulders.
+And again repaint the model you drew over the photo,
+on a blank canvas.
+If all you have is a photo,
+canvas and traditional brushes.
+Turn your photo into a line-reference model,
+and draw the same geometric contraption on your canvas to get started.
+
+If I ever had a portrait pained of me,
+I would ask the artist not to do that.
+I would like them to use their good judgment on a silly and fascinating warp transform,
+and then use that as use direct reference.
+Slightly warped or not, I would like to see my real face[2] not something that is a try,
+I want them to get it right, and have fun while painting.
+And why would I want them to draw little line models, first,
+that will only cause unnecessary distortion.
+
+We can't forget that a proper or perfect likeness,
+is a small potato[3] in relation to all the other things that should be going on in the painting.
+An artist may already begin by taking over the eyes,
+and making them glow.
+Then move on to a Suit of Armor,
+and weapons, a battle, a star ship, mars, wings, something... something interesting.
+Though I am not sure if I would ever request a portrait,
+I like things that I create on my own.
+
+Portraits are special because Lady with an Ermine[4],
+was the first work of art that I understood as such, wham I was little.
+But I think I am a fan of big scenes,
+and painting those has also benefited from modern technologies.
+3D Modeling[5],
+is a wonderful way to map out a complex scene.
+I would really enjoy building a world,
+with architecture and characters, maybe a fancy monster, or a dragon, up close.
+All the while tracking the one angle,
+that I would paint this world from.
+A 3D printed world is a neat companion for a painting,
+that displays all the action and emotion.
+ 
+References
+[1]: https://www.youtube.com/watch?v=_ZlqtNmMICQ
+[2]: https://www.youtube.com/watch?v=tnd4CtXmQTE
+[3]: https://www.youtube.com/watch?v=d58P2hSxbEk
+[4]: https://en.wikipedia.org/wiki/Lady_with_an_Ermine
+[5]: https://www.youtube.com/watch?v=9xAumJRKV6A
