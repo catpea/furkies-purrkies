@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Raspberry PI 400",
+    "url": "https://www.raspberrypi.com/products/raspberry-pi-400/",
+    "hostname": "www.raspberrypi.com"
+  },
+  {
+    "title": "some extras you can get",
+    "url": "https://www.canakit.com/raspberry-pi-400-desktop-computer-kit.html?cid=usd&src=raspberrypi",
+    "hostname": "www.canakit.com"
+  },
+  {
+    "title": "some assembly required 8GB version",
+    "url": "https://www.youtube.com/watch?v=n-4IxW9cgN4",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Raspberry PI 4",
+    "url": "https://www.canakit.com/raspberry-pi/pi-4-kits",
+    "hostname": "www.canakit.com"
+  },
+  {
+    "title": "i3 tiling window manager",
+    "url": "https://www.youtube.com/watch?v=RaP7sNCJYV0&t=208s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Install Node and create and run your first JavaScript program",
+    "url": "https://www.youtube.com/watch?v=oFdlRcRl5aQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "take a look at some JavaScript tutorials",
+    "url": "https://www.youtube.com/results?search_query=javascript+tutorial+for+beginners",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Deedee get out of my laboratory!",
+    "url": "https://www.youtube.com/watch?v=AkY3BjEQ9mI&t=4s",
+    "hostname": "www.youtube.com"
+  }
+]
