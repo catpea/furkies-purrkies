@@ -4,7 +4,7 @@ as Digital Painting, and Music Composition, and Programming.
 And combined with a 3D printer,
 in less than gadzillion hours you get to hold your creation in your hand.
 
-And that is one heckling reward,
+And that is one hecking reward,
 for learning a new talent.
 
 Though I want to make it clear, don't worry about this if you don't like it,
@@ -64,7 +64,7 @@ the thickness of wallet walls becomes a parameter you can change.
 ---
 
 While none of the documentation I found was useful,
-YouTube videos are hard to complain about.
+internet videos are hard to complain about.
 
 Unfortunately the way to learn from those,
 is to go along with what they are trying to teach.
