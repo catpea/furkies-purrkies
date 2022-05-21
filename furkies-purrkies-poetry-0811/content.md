@@ -78,7 +78,7 @@ is by going through a local Jeweler that can cast your creations for a fair pric
 But printing plastic Jewelry is also amazing,
 it is light, inexpensive, and safe to print out.
 
-[Simply create jeweler that is impossible to cast in metal][9],
+[Simply create jewelry that is impossible to cast in metal][9],
 and it will become even more special than gold.
 
 [1]: https://www.youtube.com/watch?v=gokN9xNG94U
