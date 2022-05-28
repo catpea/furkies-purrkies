@@ -1,0 +1,76 @@
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">I just figured out how to identify locations of parts of a cube,<br>you have to <span>create a point cloud around the cube<sup>[1]</sup></span>.</div>
+  <div class="paragraph">A point is a really primitive idea,<br>and it does not show up in the finished product.</div>
+  <div class="paragraph">But it serves as a very valuable anchor,<br>a point is just X,Y and Z, also called a vector.</div>
+  <div class="paragraph">And Geometry Nodes,<br>are all about vectors.</div>
+  <div class="paragraph">Just to clarify, a point can’t help you manipulate the cube,<br>it is just a thing that gets glued on top of the cube.</div>
+  <div class="paragraph">It is a useful concept,<br>for attaching things to a cube.</div>
+  <div class="paragraph">You don’t have to calculate the vector or XYZ,<br>of the center of the face of a cube, because you can put a point there.</div>
+  <div class="paragraph">And if you resize the cube,<br>by giving it new dimensions that point will update its XYZ, or vector.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">When I was making the Superhero belt hinge,<br>I used a curve line - another invisible primitive.</div>
+  <div class="paragraph">It is basically the string of a necklace,<br>there you say what you want on it.</div>
+  <div class="paragraph">It came as a bit of a surprise to me,<br>that unlike the more complex and visible meshes...</div>
+  <div class="paragraph">The line asked for the start point and end point,<br>it asked for the two vectors that edges of a cube have.</div>
+  <div class="paragraph">That is really convenient,<br>because the Mesh to Points Node delivers exactly that.</div>
+  <div class="paragraph">The points or XYZ vectors, have an ID number,<br>that I have to locate by hand, but that is OK.</div>
+  <div class="paragraph">I wrap my initial cube operations in a Group,<br>or a custom cube component.</div>
+  <div class="paragraph">And this allows me to give it custom properties,<br>so here I can create.</div>
+  <div class="paragraph">Start Of Bottom Hinge and End of Bottom Hinge,<br>and Start Of Top Hinge, and End Of Top Hinge.</div>
+  <div class="paragraph">And this will return the four Vectors,<br>that I will then feed into my hinge creation group.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">Being able to select parts of a cube,<br>is a huge deal for creating objects for 3D printing.</div>
+  <div class="paragraph">It is a huge deal for programming 3D geometry,<br>the Point Cloud, is basically the mouse.</div>
+  <div class="paragraph">The mouse that is no longer available to you,<br>because you are no longer editing an object.</div>
+  <div class="paragraph">But programming one,<br>so you can’t really click on it.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">Just to clarify, normally 3D cube,<br>is represented by three categories of things.</div>
+  <div class="paragraph">Vertices which mark the corners,<br>edge-lines, which connect the vertices together in the correct way to make a kind of a wire-frame.</div>
+  <div class="paragraph">And then faces,<br>which specify what parts of the wire-frame are filled.</div>
+  <div class="paragraph">If you wanted to move a corner of a cube up,<br>you don’t worry about the lines or face.</div>
+  <div class="paragraph">You just move the vertex,<br>and the edge-lines and faces recalculate.</div>
+  <div class="paragraph">If you wanted to move the lower side of a cube,<br>to make a primitive shoe shape, you move the edge-line connecting the vertices.</div>
+  <div class="paragraph">So that you don’t have to worry about aligning the vertices,<br>moving the edge-line will take care of that for you, and update the face.</div>
+  <div class="paragraph">If you want to stretch a cube upwards,<br>you just grab the face and pull up.</div>
+  <div class="paragraph">This will move all four vertices,<br>and all four edge-lines for you.</div>
+  <div class="paragraph">Vertices, Edges, and Faces,<br>represent a useful concept for operating on 3D geometry.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">When you are programming a cube,<br>all these concepts still apply.</div>
+  <div class="paragraph">But you don’t really model a cube,<br>you create one with the correct dimensions.</div>
+  <div class="paragraph">To adjust things that go on top of a cube,<br>you may use a point cloud.</div>
+  <div class="paragraph">This will cause your additions to automatically move,<br>when you change the cube, because points mark abstract areas on a cube.</div>
+  <div class="paragraph">They can be glues to the middle of a face,<br>the middle of an edge line, or exactly where the vertex is.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">To programmatically make a cube change its size,<br>based on what I know, at this time in Blender’s development.</div>
+  <div class="paragraph">You can only address a vertex or the corners of a cube,<br>so if you want to pull the top of a cube up.</div>
+  <div class="paragraph">You have to know the index numbers of all four vertices,<br>it is probably, 0,1,2,3 for the bottom, and 4,5,6,7 for top.</div>
+  <div class="paragraph">But I suspect in the future version of Blender,<br>you will be able to reference faces and edges.</div>
+  <div class="paragraph">It really simplifies the Math,<br>and makes the graph tree, the visual programming much more readable.</div>
+  <div class="paragraph"><span>Title Image Close-up<sup>[2]</sup></span></div>
+</div>
+<div class="break-after">&nbsp;</div>
+<div>
+  <div class="section" style="padding-bottom: 1rem;">References</div>
+  <div>[1]: https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/mesh/mesh_to_points.html</div>
+  <div>[2]: /image/poetry-0818-illustration.jpg</div>
+</div>
