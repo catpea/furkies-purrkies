@@ -12,9 +12,6 @@ looking at Lady Liberty.
 
 ---
 
-Eventually I found cold facts in physical limitations,
-where I started getting a good grasp on things, for a young person.
-
 We each have about a hundred years,
 more than long enough for us to start forgetting our days.
 
