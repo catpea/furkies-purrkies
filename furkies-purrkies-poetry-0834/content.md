@@ -1,7 +1,7 @@
-"Life goes by pretty fast,
-unless you stop and look around once in every while, you may miss it".
+"Life moves pretty fast.
+If you don't stop and look around once in a while, you could miss it.".
 
-This is one of my favorite High School movie quotes,
+While not quite correct, this is one of my favorite High School movie quotes,
 and a reason why I skipped many a class.
 
 I just went,
@@ -12,8 +12,8 @@ looking at Lady Liberty.
 
 ---
 
-Look to real physical limitations,
-to get a grasp on things.
+Eventually I found cold facts in physical limitations,
+where I started getting a good grasp on things, for a young person.
 
 We each have about a hundred years,
 more than long enough for us to start forgetting our days.
@@ -60,18 +60,63 @@ will help a young person tutor and work remotely on the internet.
 
 ---
 
-But there are many reasons,
+As far as making education more real and relevant is concerned, there are many reasons,
 why we must take to independent self education.
 
-The world simply becomes a little bit safer and a bit more open,
-when we walk away from tutorials or lectures that enable us useful and powerful, abilities.
+It is not just that the world becomes a little bit safer and a bit more open,
+when we walk away from tutorials or lectures that actually enable us useful and powerful, abilities.
+
+But we gain wisdom in the process,
+be it by pondering the universe with Newton at Westminster Abby, or by Whitman's Subtle Analogy, we simply enhance our mind.
+
+---
+
+To travel requires that the person actually wants to travel,
+if they don't like the idea, then there is little benefit to be found.
+
+That is is why I mention parents and children traveling,
+it is for the kids.
+
+It encourage learning for real,
+and becoming unstuck from any one culture in particular.
+
+---
+
+Once we enter into out 20s, I recommend the Appalachian Trail,
+if overwork did become a toxic problem.
+
+Again we have to be respectful of that 100 years granted to us,
+we must avoid our things that dim our creative and drain us of energy.
+
+As a result, we end up with room to ponder,
+to read, listen or watch smart documentaries.
+
+---
+
+And past the 20s, we have to learn even harder,
+and make a series of serious attempts at launching little businesses with all our wonderful talents.
+
+But, the more we know the faster we learn,
+and learning on our own, is just standing in pursuit of our own curiosities, it is nothing like school.
+
+Once you accept the responsibility for your won education,
+you learn a hundred times faster.
+
+---
+
+And I suspect that there is still room here for the Great Trails,
+section hiking, rather than through hiking.
+
+And at a much slower pace,
+as this time it is more about refining our wisdom and learning towards writing books.
+
 
 ---
 
 Travel or no travel, becoming a self educated citizen of the world,
-or an adventurer, or an athlete, or artist, or a professional troublemaker, is a great start to life.
+or an adventurer, or an athlete, or artist, or a professional troublemaker, so as long as it is with many a book in hand, is a great start to life.
 
-It is a great start to all powerful and meaningful things,
+It is a great start to connect all powerful and meaningful things,
 like creation of life-changing art, or writing and story telling, that makes lives a bit better.
 
 Self Education is a sure formula to appreciate Humanity’s greatest achievements,
