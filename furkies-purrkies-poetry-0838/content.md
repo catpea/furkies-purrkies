@@ -59,7 +59,7 @@ In fact you are so smart,
 and you ability to [navigate that which you do comprehend][memorypalace] is so powerful.
 
 That if I told you just how powerful your mind is,
-you would call this poem horse shit, and start memorizing to improve your grades.
+you would call this poem horseshit, and start memorizing to improve your grades.
 
 But we don’t want that,
 so I won’t tell you how smart you really are.
