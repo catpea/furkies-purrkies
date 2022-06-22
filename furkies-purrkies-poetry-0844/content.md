@@ -1,5 +1,5 @@
 When we are little we learn that the act of taking a toy apart,
-is also the act of destroying that toy.v
+is also the act of destroying that toy.
 
 Subject divisions destroy education,
 being told what you should be "learning" at any given moment...
@@ -288,9 +288,6 @@ How can mirrors be real if they only reverse text,
 and NOT your left and right hand side?
 
 Grrrrrr....
-
-Be of good cheer,
-the books are near.
 
 [0]: https://www.youtube.com/watch?v=fmoor8DwqW4
 [1]: https://youtu.be/IzZh2wstj88?t=3399
