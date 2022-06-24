@@ -1,4 +1,4 @@
-In a way Visual programming in new,
+In a way Visual programming is new,
 and hardly anyone has a clue.
 
 It does not come with a guarantee,
