@@ -1,5 +1,5 @@
 Awash with boring topics all day long,
-I must rise __and__ rise __and__ stray song.
+I must rise __and__ rise __and__ stray strong.
 
 I don’t win every fight,
 but I won today, alright.
