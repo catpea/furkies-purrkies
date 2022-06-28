@@ -75,18 +75,7 @@ and one source of potential problems to fix, if the union operation fails.
 Just return to your original motif arrangement,
 and make your repairs there.
 
---
-
-Geometry nodes are capable of Bending complex shapes,
-as of version 3.1 I believe.
-
-There you will discover the [Bend, Twist, Taper and Stretch Geometry Nodes][geometrynodes],
-that work on standard Geometry - the bend operation will ask you for an angle.
-
-The best way to lean Geometry Nodes is not to aim for anything specific first,
-simply take all the tutorials that seem interesting to you.
-
---
+---
 
 In closing I must say that this ring does not have enough complexity,
 for a 3D modeled ring.
