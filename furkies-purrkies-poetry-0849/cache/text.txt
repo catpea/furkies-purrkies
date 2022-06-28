@@ -1,4 +1,4 @@
-I started with by learning Hard Surface Modeling in Blender[1],
+I started by learning Hard Surface Modeling in Blender[1],
 and creating a whole box of wallets and dodads that I printed.
 Then I jumped to Krita[2] to brush up on my Drawing Skills, creating many portraits[3],
 I really enjoyed using the Reference Images feature and its impact on color picker.

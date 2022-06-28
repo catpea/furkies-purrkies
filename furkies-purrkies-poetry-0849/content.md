@@ -1,4 +1,4 @@
-I started with by learning [Hard Surface Modeling in Blender][hard],
+I started by learning [Hard Surface Modeling in Blender][hard],
 and creating a whole box of wallets and dodads that I printed.
 
 Then I jumped to [Krita][krita] to brush up on my Drawing Skills, [creating many portraits][portraits],
