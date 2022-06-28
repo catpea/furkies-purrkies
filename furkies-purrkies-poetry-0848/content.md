@@ -2,7 +2,7 @@ The overwhelming number of liars,
 makes it so that the world is not led.
 
 The world is moving at random,
-it all gibberish.
+it is all gibberish.
 
 ---
 
