@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Svelte is a nice example",
+    "url": "https://svelte.dev/tutorial/basics",
+    "hostname": "svelte.dev"
+  },
+  {
+    "title": "Vue.js has a step-by-step tutorial too",
+    "url": "https://vuejs.org",
+    "hostname": "vuejs.org"
+  },
+  {
+    "title": "the react tutorial is a bit insane",
+    "url": "https://reactjs.org/tutorial/tutorial.html",
+    "hostname": "reactjs.org"
+  },
+  {
+    "title": "With a program like P5.js you can really get into math",
+    "url": "https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "create sound and graphics or both",
+    "url": "https://www.youtube.com/watch?v=GiAj9WW1OfQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "computer math is amazing",
+    "url": "https://github.com/Jam3/math-as-code",
+    "hostname": "github.com"
+  },
+  {
+    "title": "attractors",
+    "url": "https://www.youtube.com/watch?v=aAJkLh76QnM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "There is no limit to how far programming can take you",
+    "url": "https://www.youtube.com/watch?v=svLzmFuSBhk",
+    "hostname": "www.youtube.com"
+  }
+]
