@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Variables",
+    "url": "https://www.youtube.com/watch?v=J0y6XXdm4KI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "functions",
+    "url": "https://www.youtube.com/watch?v=bOkuPo5VbTg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "if statements",
+    "url": "https://www.youtube.com/watch?v=IsG4Xd6LlsM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "loops",
+    "url": "https://www.youtube.com/watch?v=6Hb0qZ3PVWI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "objects",
+    "url": "https://www.youtube.com/watch?v=X0ipw1k7ygU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "MUD",
+    "url": "https://en.wikipedia.org/wiki/MUD",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "svelte",
+    "url": "https://svelte.dev/",
+    "hostname": "svelte.dev"
+  },
+  {
+    "title": "templating language",
+    "url": "https://www.youtube.com/watch?v=4HuAnM6b2d8",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "3D graphics",
+    "url": "https://threejs.org/",
+    "hostname": "threejs.org"
+  },
+  {
+    "title": "Hip Hop!",
+    "url": "https://www.youtube.com/watch?v=lFdnQlA4ucM",
+    "hostname": "www.youtube.com"
+  }
+]
