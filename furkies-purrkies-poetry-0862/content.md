@@ -32,7 +32,7 @@ that people have, and are ready to pay for.
 Sometimes programmers will hire other programmers,
 especially if they are in country with a weak economy where code costs less per line.
 
-As      ordinary as a group of friends,
+As ordinary as a group of friends,
 making a startup is.
 
 The lone programmer,
