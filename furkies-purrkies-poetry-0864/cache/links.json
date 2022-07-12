@@ -1,0 +1,37 @@
+[
+  {
+    "title": "the new school format is right in front of us",
+    "url": "https://svelte.dev/tutorial/basics",
+    "hostname": "svelte.dev"
+  },
+  {
+    "title": "Learning Music at Ableton",
+    "url": "https://learningmusic.ableton.com/",
+    "hostname": "learningmusic.ableton.com"
+  },
+  {
+    "title": "Learning Synths, also at Ableton",
+    "url": "https://learningsynths.ableton.com/",
+    "hostname": "learningsynths.ableton.com"
+  },
+  {
+    "title": "3Blue1Brown",
+    "url": "https://www.youtube.com/c/3blue1brown",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "mathematical notation must be converted to a programming language",
+    "url": "https://github.com/Jam3/math-as-code",
+    "hostname": "github.com"
+  },
+  {
+    "title": "the power to create interactive visualizations",
+    "url": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Blender Tutorials",
+    "url": "https://www.youtube.com/results?search_query=blender+tutorial",
+    "hostname": "www.youtube.com"
+  }
+]
