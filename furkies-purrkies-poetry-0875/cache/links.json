@@ -8,5 +8,10 @@
     "title": "Time Lapse",
     "url": "https://youtu.be/gjx8AsyxxNA",
     "hostname": "youtu.be"
+  },
+  {
+    "title": "Reference Images",
+    "url": "/image/poetry-0875-reference.jpg",
+    "hostname": "local"
   }
 ]
