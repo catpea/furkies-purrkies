@@ -79,7 +79,7 @@ An hour or two each day,
 is little more than play.
 
 And you can master anything like that,
-even [how to live with a bobcat].
+even [how to live with a bobcat][2].
 
 [1]: https://www.youtube.com/watch?v=0uCH2z_zLmc
 [2]: https://www.youtube.com/watch?v=gOgZDUFvk4Y
