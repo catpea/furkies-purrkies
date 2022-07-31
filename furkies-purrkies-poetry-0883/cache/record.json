@@ -1,0 +1,21 @@
+{
+  "name": "furkies-purrkies-poetry-0883",
+  "id": "furkies-purrkies-poetry-0883",
+  "title": "Free Beer, Hosting, Server Trouble, Bit Rot, Legacy Code, and Code Liability",
+  "date": "2022-07-31T14:13:14.372Z",
+  "image": "poetry-0883-illustration.jpg",
+  "artwork": "https://catpea.com",
+  "audio": "poetry-0883.mp3",
+  "html": "<div class=\"section\">\n  <p>Line1 //<br>Line2</p>\n  <p>Line1 //<br>Line 2</p>\n</div>\n<div class=\"section\">\n  <hr>\n</div>\n<div class=\"section\">\n  <p>Line1,<br>Line2</p>\n  <p>Line1,<br>Line2 <a href=\"https://example.com\">Link1</a></p>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Line1 //<br>Line2</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Line1 //<br>Line 2</div>\n  </div>\n</div>\n<div class=\"mb-5 section-spacer\">&nbsp;</div>\n<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Line1,<br>Line2</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Line1,<br>Line2 <a href=\"https://example.com\">Link1</a></div>\n  </div>\n</div>",
+  "print": "<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">Line1 //<br>Line2</div>\n  <div class=\"paragraph\">Line1 //<br>Line 2</div>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <br>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">Line1,<br>Line2</div>\n  <div class=\"paragraph\">Line1,<br>Line2 <span>Link1<sup>[1]</sup></span></div>\n</div>\n<div class=\"break-after\">&nbsp;</div>\n<div>\n  <div class=\"section\" style=\"padding-bottom: 1rem;\">References</div>\n  <div>[1]: https://example.com</div>\n</div>",
+  "text": "Line1 //\nLine2\nLine1 //\nLine 2\n\nLine1,\nLine2\nLine1,\nLine2 Link1[1]\n \nReferences\n[1]: https://example.com",
+  "images": [],
+  "links": [
+    {
+      "title": "Link1",
+      "url": "https://example.com",
+      "hostname": "example.com"
+    }
+  ]
+}
