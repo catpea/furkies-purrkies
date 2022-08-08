@@ -37,8 +37,8 @@ represent one of your first real world mechanics.
 The mechanics are the rules of the universe,
 and well worn patterns in the chaos that beautifully emerges out of it.
 
-But they need come from the real world,
-they can come fro the world of art, the world of painting and myth.
+But they need not come from the real world,
+they can come from the world of art, the world of painting, and myth.
 
 Here you pick up on great beings, the creators,
 they are all a projection of you and the human.
@@ -51,33 +51,14 @@ and you can look into those seams and learn the more hidden things.
 
 ---
 
-To give a slightly more complex example in regards to complex social systems,
-you may begin asking... "OK, that's great but where are the liars?"
-
-We remember from our childhood that there is a lot of kids that lie,
-as we grow we see them memorize for grades, and advance for kissing butts.
-
-So knowing that liars advance quite well, and wanting to avoid them,
-you may take to frequently asking, "OK, where are the butt kissers?"
-
-After a certain point, you will not travel through places,
-that liars frequent, they are simple creatures by life, looking for simple things.
-
----
-
-As you grow, wrapped with mythic, surrounded by angelic filaments,
-and the machinery of the night, you will pass through Avalon, Cicely Alaska, Mount Olympus, Rivendell, Valhalla, maybe Atlantis.
-
-And of course all of it will be real and named differently,
-but as you grow and experience life, you will be building your own mythology on the shoulders of giants.
+As you grow, wrapped by the artistic, philosophical and wise, and the machinery of the night,
+you will be building your own mythology.  
 
 The [Pacific Crest Trail][1], [Continental Divide Trail][2], or [Appalachian Trail][3],
 are adventures on a scale far beyond the ordinary graduation, paycheck, office job, and mortgage lifestyle.
 
 And that is just the beginning, because if you can walk it,
 you can run it too, [and not just one race, all the races, and then some][4].
-
----
 
 There is only one reality in life,
 and that means that we must be good to ourselves, and make each day count, make it meaningful.
@@ -88,12 +69,12 @@ And of course as you can imagine, walling and running, is just the begining,
 because then you have to [learn to dance][5], or ride skateboards and twirl on roller blades.
 
 And then get to the important stuff, as we have to help the little ones,
-[we have to make sure they are no bulled, and that bullies are granted some measure of healing too][6].
+[we have to make sure they are not bulled, and that bullies are granted some measure of healing too][6].
 
 We have to make sure that students learn what they want to learn,
-[and that all students are safe, and that their education it is always a profound experience, like no other][7].
+[and that all students are safe, and that their education it is always a profound experience, like none other][7].
 
-In 2022 as I wrote this [scrolls were erasing real education][8],
+In 2022 as I wrote this [schools were erasing real education][8],
 [the need to learn something meaningful comes from the inside][9], from the outside it will only be damaged.
 
 [Often is is the student that fails make-believe-education that learns the most][10],
@@ -101,20 +82,23 @@ In 2022 as I wrote this [scrolls were erasing real education][8],
 
 ---
 
-It is not just health and education, and impossible adventure,
+It is not just health, education, and impossible adventure,
 it is also the choices we make that then dictate the future ahead of us.
 
 We are not the first generation, many have come before us, and there is much wisdom to learn,
-[some of it, is out of control and outrageous, and in deed meant for the days betwixt war and peace][12].
+[some of it, is out of control and outrageous, meant for unique lives][12].
 
-[Other wisdom is purely for peaceful battle turning us into unbreakable and unstopobable locomotives][13]
-whether it is learning not to stop while jogging, or not to give up on what things may come.
+[Other wisdom may turn us into unbreakable beings][13]
+whether it is learning not to stop while jogging, or not to give up no matter what the future of humanity holds.
 
 And the longer you go, the more tipping points, the faster you push, and more mature you become,
 [there are wisdom so powerful that they create unending ripples in time][14],
 
 [Then when you create, the entire Universe listens and learns][15],
 in hopes of trying to understand more of it self.
+
+And then finally as you retire,  you too have to share your wisdom,
+so that those who follow need not start in the beginning, bur rather, begin on the shoulders of giants.
 
 [1]: https://www.youtube.com/watch?v=Pj_IVO32ONo
 [2]: https://www.youtube.com/watch?v=1ewQvcGhQAA
