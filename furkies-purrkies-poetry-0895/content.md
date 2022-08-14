@@ -2,7 +2,7 @@ I went to College and it was awful,
 I was really excited about Philosophy.
 
 I wanted the teacher,
-to help me understand Slavoy Zizek.
+to help me understand Slavoj Žižek.
 
 I spent countless hours,
 listening to his nose issue, and I don't get anything.
