@@ -107,3 +107,12 @@ it is not their portrait.
 
 Portraits are special,
 a person's appearance is sacred.
+
+
+---
+
+[Title-image Contest][1]
+[Time-lapse Video][2]
+
+[1]: https://www.reddit.com/r/redditgetsdrawn/comments/wu5cgz/this_is_my_cat/ile3i21/?context=3
+[2]: https://youtu.be/g1jt7knRBI0
