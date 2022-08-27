@@ -1,7 +1,7 @@
 Applying your reference image directly to your canvas,
 will help you create a perfect replica of your reference image.
 
-Becoming a powerful Hyper-reallist,
+Becoming a powerful Hyper-realist,
 is the first step in mastering art.
 
 And it doubles as proof,
@@ -55,7 +55,7 @@ you will be able to paint random faces based on your previous works.
 ---
 
 This type of simplification,
-is a form of styliation.
+is a form of stylization.
 
 And as you move to full body paintings,
 you will start remembering things about poses.
