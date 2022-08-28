@@ -92,3 +92,11 @@ a series of politicians bellowing with grotesque laughter hanging at the local g
 
 You are on your way to knock people sock off,
 and change the world.
+
+---
+
+[Title Image Contest][1]
+[Value Study Time-lapse][2]
+
+[1]: https://www.reddit.com/r/redditgetsdrawn/comments/wud87a/this_is_me/ilxs5lt/?context=3
+[2]: https://youtu.be/BzOi8agsrqA
