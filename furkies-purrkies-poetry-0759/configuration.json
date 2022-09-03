@@ -4,6 +4,9 @@
   "date": "2022-03-29T20:26:03.884Z",
   "image": "poetry-0759-illustration.jpg",
   "artwork": "https://catpea.com",
-  "artworks": ["https://unsplash.com/photos/GO5IdnmYdKk"],
-  "audio": "poetry-0759.mp3"
+  "artworks": [
+    "https://unsplash.com/photos/GO5IdnmYdKk"
+  ],
+  "audio": "poetry-0759.mp3",
+  "guid": "7d5d53b7-2461-4e50-a568-de69e3761967"
 }

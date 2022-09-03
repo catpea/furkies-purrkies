@@ -4,6 +4,9 @@
   "date": "2022-01-17T22:04:48.013Z",
   "image": "poetry-0688-illustration.jpg",
   "artwork": "https://en.wikipedia.org/wiki/File:Random_walk_25000_not_animated.svg",
-  "artworks": ["https://unsplash.com/photos/9Z1KRIfpBTM"],
-  "audio": "poetry-0688.mp3"
+  "artworks": [
+    "https://unsplash.com/photos/9Z1KRIfpBTM"
+  ],
+  "audio": "poetry-0688.mp3",
+  "guid": "6aec6dde-d527-47f0-8c6b-7cb94acbe0c6"
 }

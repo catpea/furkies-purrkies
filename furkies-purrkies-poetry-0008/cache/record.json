@@ -6,6 +6,7 @@
   "artwork": "https://unsplash.com/photos/l58BGug1EtI",
   "id": "furkies-purrkies-poetry-0008",
   "attachments": {},
+  "guid": "c5936669-32d8-4418-9651-b5859c69e4fe",
   "html": "<div class=\"section\">\n  <p>Here was what Kilgore Trout cried out to me in my father&apos;s voice:</p>\n</div>\n<div class=\"section\">\n  <p>&quot;Make me young,</p>\n  <p>make me young,</p>\n  <p>make me young!&quot;</p>\n</div>",
   "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">Here was what Kilgore Trout cried out to me in my father's voice:</div>\n  </div>\n</div>\n<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"section card-body mb-0 my-2\">\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">\"Make me young,</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">make me young,</div>\n    <div class=\"paragraph card-text card-stanza my-5 text-center\">make me young!\"</div>\n  </div>\n</div>",
   "print": "<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">Here was what Kilgore Trout cried out to me in my father's voice:</div>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <div class=\"paragraph\">\"Make me young,</div>\n  <div class=\"paragraph\">make me young,</div>\n  <div class=\"paragraph\">make me young!\"</div>\n</div>",

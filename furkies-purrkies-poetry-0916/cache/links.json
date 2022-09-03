@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FormMail",
+    "url": "https://en.wikipedia.org/wiki/FormMail",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Blender's Geometry Nodes",
+    "url": "https://www.youtube.com/results?search_query=+Blender%27s+Geometry+Nodes",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "or automate",
+    "url": "https://github.com/rwaldron/johnny-five#hello-johnny",
+    "hostname": "github.com"
+  },
+  {
+    "title": "or go cheerfully nuts with",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "hostname": "github.com"
+  },
+  {
+    "title": "parallel",
+    "url": "https://gulpjs.com/docs/en/api/parallel/",
+    "hostname": "gulpjs.com"
+  },
+  {
+    "title": "WarriorJs",
+    "url": "https://warriorjs.com/",
+    "hostname": "warriorjs.com"
+  }
+]

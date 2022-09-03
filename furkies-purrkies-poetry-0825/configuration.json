@@ -4,6 +4,9 @@
   "date": "2022-06-04T02:05:27.433Z",
   "image": "poetry-0825-illustration.jpg",
   "artwork": "https://catpea.com",
-  "artworks": ["https://www.getty.edu/art/collection/object/103Y0D"],
-  "audio": "poetry-0825.mp3"
+  "artworks": [
+    "https://www.getty.edu/art/collection/object/103Y0D"
+  ],
+  "audio": "poetry-0825.mp3",
+  "guid": "39f81e5c-6d06-4b4a-b83f-5fb3ac07c552"
 }

@@ -4,6 +4,10 @@
   "date": "2022-07-29T00:45:06.551Z",
   "image": "poetry-0880-illustration.jpg",
   "artwork": "https://catpea.com",
-  "artworks": ["https://unsplash.com/photos/qBT44OJWNd8","https://unsplash.com/photos/eIgHtU-FWfY"],
-  "audio": "poetry-0880.mp3"
+  "artworks": [
+    "https://unsplash.com/photos/qBT44OJWNd8",
+    "https://unsplash.com/photos/eIgHtU-FWfY"
+  ],
+  "audio": "poetry-0880.mp3",
+  "guid": "bc917071-7579-43c4-91d1-18105123cf48"
 }

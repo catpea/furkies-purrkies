@@ -4,6 +4,9 @@
   "date": "2022-07-05T20:42:10.164Z",
   "image": "poetry-0857-illustration.jpg",
   "artwork": "https://unsplash.com/photos/lVd5b63876g",
-  "artworks": ["https://unsplash.com/photos/qtkpOxCpl0Y"],
-  "audio": "poetry-0857.mp3"
+  "artworks": [
+    "https://unsplash.com/photos/qtkpOxCpl0Y"
+  ],
+  "audio": "poetry-0857.mp3",
+  "guid": "36d4d60b-816e-461c-b39f-a06293e80ed5"
 }
