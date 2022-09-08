@@ -1,0 +1,69 @@
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">I must admit I welcome the Fence Post problem,<br>and I think of zero as a proper number we should all embrace.</div>
+  <div class="paragraph">It is like a hug,<br>from the world of programming.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">The fence post problem,<br>is a curse to all other programmers.</div>
+  <div class="paragraph">When you have three apples,<br>in the computer world.</div>
+  <div class="paragraph">The size of the list that holds your apples,<br>will be three, as it holds three elements.</div>
+  <div class="paragraph">But to address your apples,<br>you start at zero, not at one.</div>
+  <div class="paragraph">To refer to the first apple in your list,<br>you say apple zero.</div>
+  <div class="paragraph">This is still manageable,<br>but, when you are looping over your list.</div>
+  <div class="paragraph">You need to put an upper boundary for this operation,<br>for how many apples do you want to go over.</div>
+  <div class="paragraph">And this is where it often happens,<br>the person will say three apples,...</div>
+  <div class="paragraph">Because that is how many apples they have,<br>but that is wrong.</div>
+  <div class="paragraph">The loop does not ask how many apples,<br>but rather, at what index to stop.</div>
+  <div class="paragraph">We have three apples,<br>but they are known as zero, one, two.</div>
+  <div class="paragraph">So we need to stop our loop at two,<br>not three.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">In JavaScript lists of things are called Arrays,<br>so when you have three apples you think of them as an array of apples.</div>
+  <div class="paragraph">Our for loop has three expressions,<br>initialization, condition, and final expression.</div>
+  <div class="paragraph">They are said to be optional,<br>which is short for saying, infinite loop danger.</div>
+  <div class="paragraph">In the body of your for loop, between the curly brackets,<br>where you put in your code.</div>
+  <div class="paragraph">You have access to whatever you put into initialization,<br>so if you said:</div>
+  <div class="paragraph">Counter equals zero; while counter is less than apple array length, counter = counter + 1;</div>
+  <div class="paragraph">You can print your counter,<br>each time the body of the loop executes.</div>
+  <div class="paragraph">You can end a loop early with the break statement,<br>or skip current execution, and start with the next one with the continue statement.</div>
+  <div class="paragraph">But, it is best not to get too creative,<br>because then you will have trouble reading your own code.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">In closing,<br>let us iterate over our three apples.</div>
+  <div class="paragraph">For appleCounter=0, while appleCounter &lt; appleList length; new appleCounter = old appleCounter +1.</div>
+  <div class="paragraph">so pur apple counter will be 0, then 1, and 2,<br>and for a tiny second 3, at which point appleCounter will no longer be LESS than apple list length (which is 3).</div>
+  <div class="paragraph">And the for loop body will not execute,<br>appleCounter will be discarded as the for loop party is over.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">When people write loops, they forget that less than sign,<br>sometimes use a less than or equal, because they think that will get all the apples.</div>
+  <div class="paragraph">But no,<br>nuh uh.</div>
+  <div class="paragraph">We have three apples,<br>and need to stop at two.</div>
+  <div class="paragraph">Because to use the appleCounter variable to point at apples in our for loop,<br>we have to initialize it to zero, as arrays start at zero.</div>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <br>
+</div>
+<div class="section avoid-break-inside" style="padding-bottom: 2rem;">
+  <div class="paragraph">Lastly, I caused the fence post problem but for an interesting reason,<br>in some cases we have to hide that we work with zero based indexing.</div>
+  <div class="paragraph">The creator of the library <span>chose to use number one<sup>[1]</sup></span>,<br>and that is a valid choice.</div>
+  <div class="paragraph">But when I was setting it up, I assumed,<br>we always start everything at 0 no matter what.</div>
+  <div class="paragraph">I’ll be rewriting this portion of the new website,<br>and my program will have a page zero.</div>
+  <div class="paragraph">Both a zero in the URL bar,<br>and on a button.</div>
+  <div class="paragraph">When numbering things in the computer world you should always start with zero,<br>zero only becomes scary, when you start at one.</div>
+</div>
+<div class="break-after">&nbsp;</div>
+<div>
+  <div class="section" style="padding-bottom: 1rem;">References</div>
+  <div>[1]: https://www.npmjs.com/package/pagination#current-integer</div>
+</div>
